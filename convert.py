@@ -6,7 +6,7 @@ import sys
 import csv
 import json
 
-#from logzero import logger
+from logzero import logger
 #from tqdm import tqdm
 
 paths = sys.argv[1:]
@@ -24,6 +24,11 @@ for path in paths:
 
     dict_id_to_category = {}
     list_ids = []
+    set_id = set()
+    set_name_en = set()
+    set_name_ja = set()
+    set_def_en = set()
+    set_def_ja = set()
 
     for (i, (row, rec)) in enumerate(zip(rows, recs)):
         #logger.debug('row: %s', row)
@@ -39,18 +44,57 @@ for path in paths:
             raise Exception('no id fields')
         strId = '.'.join(id_fields)
         #logger.debug('strId: %s', strId)
+
+        if not strId:
+            raise Exception('no id')        
+        if strId in set_id:
+            raise Exception('duplicate id: %s' % strId)
+        set_id.add(strId)
         output['ENE_id'] = strId
-        output['name'] = {}
-        output['name']['en'] = rec['ENE英語表記']
-        if 'NE' in rec:
-            output['name']['ja'] = rec['NE']
-        elif 'ENE' in rec:
-            output['name']['ja'] = rec['ENE']
+
+        name_en = rec['ENE英語表記']
+        #if 'NE' in rec:
+        #    name_ja = rec['NE']
+        #elif 'ENE' in rec:
+        #    name_ja = rec['ENE']
+        #else:
+        #    raise Exception('no NE/ENE')
+        if row[6]:
+            name_ja = row[6]
+        elif row[5]:
+            name_ja = row[5]
         else:
-            raise Exception('no NE/ENE')
+            name_ja = row[4]
+        #logger.debug('name ja: %s', name_ja)
+        if not name_en:
+            raise Exception('no name_en')
+        if not name_ja:
+            raise Exception('no name_ja')
+        if name_en in set_name_en:
+            raise Exception('duplicate name_en: %s' % name_en)
+        if name_ja in set_name_ja:
+            raise Exception('duplicate name_ja: %s' % name_ja)
+        set_name_en.add(name_en)
+        set_name_ja.add(name_ja)
+        output['name'] = {}
+        output['name']['en'] = name_en
+        output['name']['ja'] = name_ja
+        
+        def_en = rec['Definition']
+        def_ja = rec['定義文']
+        if not def_en:
+            raise Exception('no def_en')
+        if not def_ja:
+            raise Exception('no def_ja')
+        if def_en in set_def_en:
+            raise Exception('duplicate def_en: %s' % def_en)
+        if def_ja in set_def_ja:
+            raise Exception('duplicate def_ja: %s' % def_ja)
+        set_def_en.add(def_en)
+        set_def_ja.add(def_ja)
         output['definition'] = {}
-        output['definition']['en'] = rec['Definition']
-        output['definition']['ja'] = rec['定義文']
+        output['definition']['en'] = def_en
+        output['definition']['ja'] = def_ja
         output['children_category'] = []
         if strId.find('.') >= 0:
             parentId = strId[:strId.rfind('.')]
