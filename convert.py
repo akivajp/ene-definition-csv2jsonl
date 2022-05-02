@@ -10,6 +10,14 @@ from logzero import logger
 #from tqdm import tqdm
 
 paths = sys.argv[1:]
+
+# 重複チェック用
+set_id = set()
+set_name_en = set()
+set_name_ja = set()
+set_def_en = set()
+set_def_ja = set()
+
 for path in paths:
     #path = sys.argv[1]
     reader = csv.reader(open(path, 'r', encoding='utf-8-sig'))
@@ -24,11 +32,6 @@ for path in paths:
 
     dict_id_to_category = {}
     list_ids = []
-    set_id = set()
-    set_name_en = set()
-    set_name_ja = set()
-    set_def_en = set()
-    set_def_ja = set()
 
     for (i, (row, rec)) in enumerate(zip(rows, recs)):
         #logger.debug('row: %s', row)
@@ -53,12 +56,6 @@ for path in paths:
         output['ENE_id'] = strId
 
         name_en = rec['ENE英語表記']
-        #if 'NE' in rec:
-        #    name_ja = rec['NE']
-        #elif 'ENE' in rec:
-        #    name_ja = rec['ENE']
-        #else:
-        #    raise Exception('no NE/ENE')
         if row[6]:
             name_ja = row[6]
         elif row[5]:
