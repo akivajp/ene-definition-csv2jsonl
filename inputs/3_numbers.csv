@@ -1,0 +1,119 @@
+﻿ID,,,,ENE,,,正例,負例,普通名詞フラグ,ENE英語表記,定義文,Definition,,注意事項,
+3,,,,数値表現,,,,,,Numex,数値を含む表現。,An expression indicating the number of something.,An expression about numbers,,
+3,0,,,数値表現＿その他,,,"8階建て,   地上８階地下１階建て,   ２LDK,   二重,   3周,   Ｖｅｒｓｉｏｎ６．０．５,   ３極,   二けた,   ５合目,   二頭立て
+
+Ｍ５（野球のマジック）","第三者(→ＣＯＮＣＥＰＴ),  第三勢力(→ＣＯＮＣＥＰＴ)
+
+フォアボール(→主義方式名＿その他),  四球(→主義方式名＿その他),  三振(→主義方式名＿その他)
+
+四輪車(→ＣＯＮＣＥＰＴ),  一戸建て(→ＣＯＮＣＥＰＴ),  世界一周(→ＣＯＮＣＥＰＴ)
+
+憲法九条（→規則名）
+
+三年生（→学齢）
+
+２議席（→個数＿その他）
+
+三冠王（→地位職業名）
+
+1アンダー（→ポイント）
+
+Vol.１（→序数）",,Numex_Other,数値表現の内、その下位のクラスに属さないもの。,An expression indicating the number of something (3 Numex) that do not belong to any of the other subordinate categories (3.1 - 3.13).,"An expression about numbers which is not  in the categories of the Numex’s child nodes, 3-1 – 3-1",,
+3,1,,,金額表現,,,"５０円,   １００ポンド,   ＄４０,   百万元,   一兆ルーブル,   七十二兆円,   七億五〇〇〇万ドル,   約百億円
+
+百億円以上（「百億円」→金額表現）",,,Money,金額を表す表現。,An expression indicating the amount of money.,An expression of the amount of money.,,
+3,2,,,株指標,,,25  5/8,,,Stock_Index,株の指標を表す表現。,An expression of stock market indexes.,An expression of a stock index.,,
+3,3,,,ポイント,,,"１０点,   ４０得点,   ５ポイント,   ソロ,   ２・８９（野球の防御率）,   １アンダー(ゴルフのスコア)","  
+
+大量点(→ＣＯＮＣＥＰＴ),   満塁(→主義方式名＿その他),   一本（柔道→ 主義方式名＿その他）
+
+“絵画が２００点”（「２００点」→製品数）",,Point,ポイント（点数、得点など）を表す表現。,An expression of points or scores.,An expression of points or scores.,,
+3,4,,,割合表現,,,"３割５分,   半分,   ２/３,   ５分の４,   ４０％,   ７パーセント,   １２０％,   二分(にぶ),   半数,   数パーセント,   半額","半信半疑(→ＣＯＮＣＥＰＴ),   過半数(→ 個数＿その他)
+
+１．２倍（→倍数表現）",,Percent,割合を表す表現。,An expression of ratio.,An expression of ratio.,,ratio proportion percent
+3,5,,,倍数表現,,,"１６倍,   百倍,   ０．５倍,   数十倍",何十倍(→ＣＯＮＣＥＰＴ),,Multiplication,倍数を表す表現。,An expression of multiplication.,An expression of multiplication.,,
+3,6,,,頻度表現,,,"３回 , ８度
+
+毎週３回(「3回」→頻度表現)","三回に一回（「三回」→個数＿その他　「一回」→頻度表現）
+
+",,Frequency,頻度を表す表現。,An expression of frequency.,An expression of frequency.,,
+3,7,,,年齢,,,"３０歳,   ３ヶ月,   七才,   還暦,   米寿,   ４０代,   二十代後半, 
+
+「山田太郎(５０)」(「５０」→年齢)",高齢者(→ＣＯＮＣＥＰＴ),,Age,年齢を表す表現。,An expression of age.,An expression of age.,,
+3,8,,,学齢,,,"小学校一年生,   中三,   高校2年,   幼稚園児,   浪人生,   女子大２年,   女子大３、４年
+
+中学時代（「中学」→学齢）",学生（→地位職業名）,,School_Age,学齢を表す表現。 ,An expression of grade in school.,An expression of school age.,,school year→学年。Grade？
+3,9,,,序数,,,"  
+
+第4日,   第二次,   第七回戦,   第四ラウンド,   1回目,   第2回,   5回戦,   初代,   ５期目
+
+長女,   三男,   末っ子,   3世
+
+初日,   最終日
+
+二番手,   一、二審,   Vol.１,   第１巻,   第２号機 ,   ３回忌
+
+３期当選(「３期」→序数)
+
+第十一句集(「第十一」→序数)
+
+第2次予選([第2次」→序数)","第三者(→ＣＯＮＣＥＰＴ),   第三勢力(→ＣＯＮＣＥＰＴ),   第三セクター(→ＣＯＮＣＥＰＴ),   第二地銀(→ＣＯＮＣＥＰＴ)
+
+先代(→ＣＯＮＣＥＰＴ)
+
+第5回スイス大会（→競技会名）,   第３回千葉マラソン（→競技会名）
+
+初優勝（「優勝」→順位表現）
+
+第十四代木村庄之助（→人名）",,Ordinal_Number,序数。順序を表す数。,An expression of an ordinal number.,An expression of an ordinal number.,,
+3,10,,,順位表現,,,"１位,   優勝,   準優勝,   Aクラス,   ブービー,   ベスト５,   ８強,   トップ,   V,   筆頭,   第一党","先頭(→ＣＯＮＣＥＰＴ)
+
+賞金王（→地位名）   チャンピオン（→地位名）
+
+金メダル（→製品名＿その他）
+
+区間賞（→賞名）",,Rank,競技、コンテストなどでの結果の順位を表す表現。 ,An expression of ranking given to the result of a competition.,An expression of ranking given to a result of a competition.,,
+3,11,,,緯度経度,,,"北緯３０度, 西経１３５度２０分",,,Latitude_Longitude,緯度経度を表す表現。,An expression of latitude or longitude.,An expression of latitude and longitude.,,
+3,12,,,寸法表現,,,,,,Measurement,寸法を表す表現。,An expression of measurement.,An expression of measurement.,,
+3,12,0,,寸法表現,寸法表現＿その他,,"２０ワット,   ５デシベル,   百十万キロワット,   ３００kHz,   A4",,,Measurement_Other,寸法表現の内、その下位のクラスに属さないもの。,An expression of measurement (3.12 Measurement) that do not belong to any of the other subordinate categories (3.12.1 - 3.12.10).,"An expression of measurement which is not  in the categories of the Measurement’s child nodes, 3-12-1 – 3-12-10.",,
+3,12,1,,,長さ,,"１メートル５尺６寸,   ４里,   ８cm,   一万光年,   ４２・１９５キロ,   約五十メートル,   数センチ,   １馬身４分の１",,,Physical_Extent,長さを表す表現。,An expression of physical extent; length or height of something.,An expression of length or height.,,
+3,12,2,,,面積,,"３ヘクタール,   8畳,   50坪,   １００平方メートル,   約六十万ヘクタール",,,Space,面積を表す表現。,An expression of area.,An expression of area.,,
+3,12,3,,,体積,,"３６０ml,   ８０立方メートル,   ５リットル,   ３ガロン,   一升,   ２０ｃｃ,   小さじ５,   カップ2,   小さじ5杯",,,Volume,体積を表す表現。,An expression of volume.,An expression of volume.,,
+3,12,4,,,重量,,"１キログラム,   ５０オンス,   一貫,   6トン,   ９００g,   約百キロ",,,Weight,重量を表す表現。,An expression of weight.,An expression of weight.,,
+3,12,5,,,速度,,"時速１００キロ,   ５０km/h,   風速５メートル,   秒速３０センチ,   140キロ半ば","音速,   光速",,Speed,速度を表す表現。,An expression of speed.,An expression of speed. ,,
+3,12,6,,,密度,,"５キログラム毎立方メートル, ３０ｋｇ／立方メートル",,,Intensity,密度を表す表現。,An expression of intensity.,An expression of intensity.,,
+3,12,7,,,温度,,"１５度,   氷点下３℃,   摂氏６度,   −２℃,   氷点下２．５度,   一六・五度",,,Temperature,温度を表す表現。,An expression of temperature.,An expression of temperature.,,
+3,12,8,,,カロリー,,"２０００カロリー, １２０ｋｃａｌ",,,Calorie,カロリー（熱量）を表す表現。,An expression of calorie.,An expression of calorie. ,,
+3,12,9,,,震度,,"震度４,   震度五,   微震",,,Seismic_Intensity,震度を表す表現。マグニチュードではない。,An expression of seismic intensity.,An expression of seismic intensity. ,,
+3,12,10,,,マグニチュード,,マグニチュード７．２,,,Seismic_Magnitude,地震のマグニチュードを表す表現。,An expression of magnitude.,An expression of magnitude.,,
+3,13,,,個数,,,,,,Countx,個数。 ,An expression of counts.,An expression of counts.,,
+3,13,0,,個数,個数＿その他,,"２膳, ３杯, ３言語, １００万画素, １００アクセス, １０ビット
+
+三十万回線,   三百三十議席,   約六百五十席
+
+６段階,   １３課題,   ５３７１通（手紙）,   １３９球,   ３安打",,,Countx_Other,個数の内、その下位のクラスに属さないもの。,An expression of counts (3.13 Countx) that do not belong to any of the other subordinate categories (3.13.1 - 3.13.7).,"An expression of counts which is not  in the categories of the Measurement’s child nodes, 3-13-0 – 3-13-7-2.",,
+3,13,1,,,人数,,"10人,   一万人,   ６閣僚,   三十数人,   ５億人,   ３４選手,   ３名人,   三遺体","大量,   複数,   ナイン,   イレブン",,N_Person,人の数。,An expression of the number of people.,An expression of the number of people.,,
+3,13,2,,,組織数,,"３０企業,   五団体,   ７グループ,   千数百機関,   ２パーティー,   ４チーム,   ５組,   ３万社,   ２５小委員会,   四行
+
+１世帯,   ６班,   ２大ゲリラ組織,   ２大政党
+",,,N_Organization,組織の数。 ,An expression of the number of organizations.,An expression of the number of organizations.,,
+3,13,3,,,場所数,,,,,N_Location,場所の数。,An expression of the number of places.,An expression of the number of places.,,
+3,13,3,0,,場所数,場所数＿その他,"10地域,   47都道府県,   50州,   二十三選挙区,   二府四県,   ５地方,   十二カ所,   三都市,   １７カ国、地域",,,N_Location_Other,場所数の内、その下位のクラスに属さないもの。 ,An expression of the number of places (3.13.3 N_Location) that do not belong to any of the other subordinate categories (3.13.3.1 N_Location_Other).,An expression of the number of places excluding countries.,,
+3,13,3,1,,,国数,"２国, 四ヶ国, ３か国",,,N_Country,国の数。 ,An expression of the number of countries.,An expression of the number of countries. ,,
+3,13,4,,,施設数,,"１０校,   ３空港,   三百戸,   二棟,   ４施設
+
+３階（３つの階という意味）",３階（フロアの意味→施設部分名）,,N_Facility,施設の数。,An expression of the number of facilities.,An expression of the number of facilities.,,
+3,13,5,,,プロダクト数,,"１０個,   ８システム,   ９冊,   ４つ,   数千株,   ３隻,   百万台,   約百冊,   二言語
+
+２種目,   三十八本,   三作品,   二点,   十曲,   七枚,   ２講座
+","
+七十公演(→イベント数)",,N_Product,製品の数。,An expression of the number of products.,n expression of the number of products.,,
+3,13,6,,,イベント数,,"４件, ３大会, ７０公演, ３勝, ４場所
+
+五大会,   ３ゲーム,   ４シリーズ,   １９試合,   ２連勝,   １４敗,   １３戦,   ３場所,   ２５回
+
+三選,   二浪",,,N_Event,イベントの数。 ,An expression of the number of events.,An expression of the number of events.,,
+3,13,7,,,自然物数,,,,,N_Natural_Object,自然物の個数。,An expression of the number of natural objects.,An expression of the number of natural objects,,
+3,13,7,0,,自然物数,自然物数＿その他,"１０個,   ６原子,   三億粒（卵）,   ３本（指）,   ３枚(葉)",,,N_Natural_Object_Other,物、植物以外の自然物の個数。 動物部位や植物部位の個数を含む。,An expression of the number of natural objects (3.13.7 N_Natural_Object) that do not belong to any of the other subordinate categories (3.13.7.1 - 3.13.7.2).,"An expression of the number of particles, or the parts of an animal or plant.",,
+3,13,7,1,,,動物数,"１０匹,   六頭,   ８羽,   ４３１２本（マグロ）",,,N_Animal,人間を除く動物の個数。,An expression of the number of animals excluding human beings.,An expression of the number of animals excluding human beings.,,
+3,13,7,2,,,植物数,"一輪,   4本,   ３株",,,N_Flora,植物の個数。,An expression of the number of plants.,An expression of the number of plants.,,

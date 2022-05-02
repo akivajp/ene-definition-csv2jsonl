@@ -1,0 +1,1124 @@
+﻿ID,,,,NE,,,正例,負例,代表的な定義語,普通名詞フラグ,ENE英語表記,定義文,Definition,属性定義の有無,,注意事項用メモ,
+1,,,,名前,,,,,,,Name,名前。具象・抽象をふくめた「存在」「ものごと」についている名前。 ,"A name. A word or set of words by which a person, thing, matter or abstract concept is known, addressed, or referred to.",,,,
+1,0,,,名前＿その他,,,,,名前,,Name_Other,名前のうち、その下位クラスに属さないもの。,A name (1 Name) that does not belong to any of the other subordinate categories (1.1 - 1.11).,,,,
+1,1,,,人名,,,"福沢諭吉,  エドガー・アラン・ポー,  春日局,  R・ゼーリック,  いがらし・こうぞう,  岡本文弥,  長門美保,  武帝,  葛飾北斎
+
+キョンキョン,  キムタク,  イチロー,  エリザベスII世,  ゴジラ（松井）,  あっちゃん
+
+第十四代木村庄之助,  清少納言","田中(→  ＣＯＮＣＥＰＴ)
+
+ポパイ(→ キャラクター名),  浦島太郎(→ キャラクター名),  寅さん(→ キャラクター名)","人物,  政治家,  俳優,  サッカー選手,  武将",,Person,"人の名前。
+人名の読み仮名や、ニックネーム、しこな等、個人が特定できるもの、伝説上の人物を含む。
+創作されたことが明らかな人物(小説、映画、漫画等の登場人物)は含まない。","A name of a real person. 
+This includes a legendary person whose existence is questionable, and a common name or nickname that constitutes the distinctive designation of a person. 
+This does not include a fictional character in a work (such as novel, play, or film).",1,,,
+1,2,,,神名,,,"アテネ,  インドラ,  ゼウス,  ヘラクレス,  大国主命,  帝釈天,  少彦名命,  大日如来,  韋駄天","守り神(→ ＣＯＮＣＥＰＴ),  女神(→ ＣＯＮＣＥＰＴ),  現人神(→ ＣＯＮＣＥＰＴ),  八百万の神(→ ＣＯＮＣＥＰＴ)
+
+ラファエル(天使の名前→ キャラクター名),  アルセイス(ニンフ→キャラクター名),  
+ブラウニー(妖精→空想生物名),  イフリート(精霊→空想生物名)","神,  仏,  一柱,  一尊",,God,"神仏の名前。
+妖精、精霊、ニンフは含まない。","A name of a deity, like a god or goddess. 
+This does not include a fairy, genie, or nymph. ",,,,
+1,3,,,生物呼称名,,,,,,,Individual_Living_Thing,個々の生物につけられた名前。生物学的な分類を除く。,"A name of an individual living thing. 
+This does not include a taxonomic name used for the classification of organisms.",,,,
+1,3,0,,生物呼称名,生物呼称名＿その他,,,,,,Individual_Living_Thing_Other,"生物呼称名のうち、その下位クラスに属さないもの。
+生物学的な分類を除く。","A name of an individual living thing (1.3 Individual_Living_Thing) that does not belong to any of the other subordinate categories (1.3.1 - 1.3.2).
+This does not include a taxonomic name used for the classification of organisms.",,,,
+1,3,1,,,動物呼称名,,,,,,Individual_Animal,"個々の動物に付けられた名前。
+生物学的な分類を除く。","A name of an individual animal. 
+This does not include a taxonomic name used for the classification of organisms.",,,,
+1,3,1,0,,動物呼称名,動物呼称名＿その他,"たま,  ポチ,  トントン","ゴールデンレトリバー(→ 哺乳類名),  カクレクマノミ(→ 魚類名)
+
+ネッシー(→  架空生物名)","犬,  チンパンジー,  ゾウ",,Individual_Animal_Other,"動物呼称名のうち、その下位クラスに属さないもの。
+",A name of an individual animal (1.3.1 Individual_Animal) that does not belong to the other subordinate category (1.3.1.1 Racehorse).,,,,
+1,3,1,1,,,競走馬名,"オグリキャップ,  ディープインパクト,  トウカイテイオー
+
+ナスルーラ系(競走馬の血統)",競走馬(→ ＣＯＮＣＥＰＴ ),"競走馬,  種牡馬,  繁殖牝馬,  元競走馬,  サラブレッド",,Racehorse,個々の競走馬に付けられた名前。,A name of an individual racehorse. ,,,,
+1,3,2,,,植物呼称名,,"富田の一本松,  練馬白山神社の大ケヤキ,  ロイヤル・オーク",バラ(→ 植物名),"巨木,  木,  古木,  桜",,Individual_Flora,"個々の植物に付けられた名前。
+生物学的な分類を除く。","A name of an indivual flora. 
+This does not include a taxonomic name used for the classification of organisms. ",,,,
+1,4,,,組織名,,,,,,,Organization,複数の人間からなる組織の名前。,A name of an organized group of people.,,,"・建物の名称でもある場合は原則として施設名とする。
+or
+・組織名でも施設名でもある場合は、施設名を優先して分類。
+",
+1,4,0,,組織名,組織名＿その他,,"孔門の十哲,  向田ファミリー,  精華町町内会
+警視庁・神奈川県警合同捜査本部
+名古屋教区第2組,  オックスフォード大学出版局
+NHKワシントン支局
+横綱審議委員会","  
+
+アイユーブ朝（→ 政治的組織名）
+全国黒人向上協会（→非営利団体名）","本部,  組織,  団体,  支局,  機関,  司教区",,Organization_Other,"組織名の内、その下位のクラスに属さないもの。
+例えば同好会、クラブ、組織内部につくられた組織（部、課など）。","A name of an organization (1.4 Organization) that does not belong to any of the other subordinate categories (1.4.1 - 1.4.7).
+Examples are a name of club, a division of company, a department of university, etc.",1,,,
+1,4,1,,,国際組織名,,"国連,  ユニセフ,  北大西洋条約機構,  世界保健機関,  東南アジア諸国連合,  ASEAN,  KEDO,  欧州連合
+
+世界銀行,  東南アジア条約機構
+
+ロータリークラブ・インターナショナル, イスラム諸国会議機構, 南太平洋フォーラム",国際陸上競技連盟(→ 競技連盟名),"国際機関,  専門機関,  国際連合平和維持活動,  国際組織,  欧州委員会",,International_Organization,"複数の国の代表者から構成されている組織の名前。
+他により適切なカテゴリがある場合はそちらに分類。","A name of an organization consisted of representatives from multiple countries. 
+In case there is another more appropriate category for the entity, it shall be classified there. ",1,,"・国際組織で且つ組織内の他のカテゴリに分類可能な場合は原則として他のカテゴリに分類する。
+
+国際陸上競技連盟(→ 競技連盟名)
+UEFAヨーロッパリーグ(→ 競技会名)",
+1,4,2,,,公演組織名,,"クリーブランド管弦楽団,  ボリショイ・バレエ団,  アメリカン・バレエ・シアター
+ ビージーズ,  爆笑問題",劇団ひとり(→ 人名),"バンド,  お笑いコンビ,  女性アイドル,  劇団,  オーケストラ,  グループ,  ユニット",,Show_Organization,"公演活動をする組織の名前。
+例えば、オーケストラ、劇団、バンド、ポップグループなど。","A name of an organization presenting performances such as a play, concert or show. 
+Examples are an orchestra, troupe, band, a pop music group, etc.",1,,,
+1,4,3,,,家系名,,"久我氏,  清水家,  近衛家,  伏見宮家","表千家(→ 流派名),  高砂一門(→ 流派名),  貴乃花部屋(→ 競技団体名)","氏族,  家系,  一族,  公家,  分枝,  一門",,Family,"家の血統、家系の名前。
+始祖が想定可能なもの。","A name of a family lineage, pedigree or blood relationship, the progenitor of which can be assumued.",1,,,
+1,4,4,,,民族名,,,,,,Ethnic_Group,民族的な帰属意識を共有する集団の名前。,A name of a community or population made up of people who identify with each other based on a common cultural background or descent. ,,,,
+1,4,4,0,,民族名,民族名＿その他,"ケルト人,  トラジャ（人）,  台湾人,  アフリカーナー
+漢民族,  ユダヤ人,  アルタイ系諸族,  華僑,  アラブ系民,  日系人,  日系二世
+黄色人種,  モンゴロイド,  白人
+大阪人,  江戸っ子,  ニューヨーカー
+弥生人","アメリカ人（→国籍名）
+ネアンデルタール人（→哺乳類名）,  北京原人（→哺乳類名）","民族,  部族,  人種,  集団,  一派,  遊牧民",1,Ethnic_Group_Other,民族名のうち、その下位クラスに属さないもの。,A name of an ethnic group (1.4.4 Ethnic_Group) that does not belong to the other subordinate category (1.4.4.1 Nationality).,1,,,
+1,4,4,1,,,国籍名,"イスラエル人,  アメリカ人,  日本国籍
+日系アメリカ人","台湾人（→民族名＿その他）,  パレスチナ人（→民族名＿その他）,  日系人（→民族名＿その他）","民族,  国民,  国籍",1,Nationality,人の国籍の名前。,A name of a nationality.,1,,,
+1,4,5,,,競技組織名,,,,,,Sports_Organization,スポーツ、競技に関する組織の名前。,A name of an organization related to sports.,,,,
+1,4,5,0,,競技組織名,競技組織名＿その他,"CAオール・ボーイズ,  ラシン・クラブ・ド・フランス
+
+岐阜県地方競馬組合",,"総合スポーツクラブ,  事務組合,  競馬倶楽部",,Sports_Organization_Other,競技組織名のうち、その下位クラスに属さないもの。,A name of an sports organization (1.4.5 Sports_Organization) that does not belong to any of the other subordinate categories (1.4.5.1 - 1.4.5.3). ,,,,
+1,4,5,1,,,競技連盟名,"世界ボクシング協会, 日本野球連盟, 東アジアサッカー連盟,  日本相撲協会",横綱審議委員会（→組織名＿その他）,"団体,  組織,  法人,  協会,  連盟,  統括団体,  認定団体",,Sports_Federation,各競技を統轄する組織の名前。,A name of a governing body of a sport.,1,,,
+1,4,5,2,,,競技リーグ名,"ＮＢＡ,  セリエＡ,  セントラル・リーグ,  日本プロサッカーリーグ,  アイビー・リーグ,  Jリーグ,  NFL,  大リーグ,  東京六大学野球,  ナ・リーグ西地区",横綱審議委員会（→組織名＿その他）,"シーズン,  リーグ,  トップディビジョン,  大会",,Sports_League,アマチュア、プロを問わず、団体戦競技が行われるリーグの名前。,"A name of a sports league, which is a group of sports teams that compete against each other, irrespective of professionals and amateurs.",1,,,
+1,4,5,3,,,競技団体名,"読売ジャイアンツ,  ＡＣミラン,  鹿島アントラーズ,  ニューヨーク・ヤンキース
+早稲田大学野球部,  桐山部屋,  グリーンツダボクシングクラブ,  プロレスリング・アイアン","Jリーグ(→  競技リーグ名)
+高砂一門(→  流派名)
+球団(→ ＣＯＮＣＥＰＴ), FC(→ ＣＯＮＣＥＰＴ)","クラブ,  チーム,  団体,  サッカークラブ,  ナショナルチーム,  プロレス団体",,Sports_Team,アマチュア、プロを問わず、また個人競技、団体競技を問わず競技に参加する選手が所属する組織の名前。,"A name of an organization where players of individual or team sports belong, irrespective of professionals and amateurs.",1,,,
+1,4,6,,,法人名,,,,,,Juridical_Person,社団法人、財団法人などの法人の名前。,"A name of a juridical person, which is a company, a group of people or an organization authorized to act as a single entity (legally a person) and recognized as such in law.",,,,
+1,4,6,0,,法人名,法人名＿その他,,,,,Juridical_Person_Other,法人のうち、その下位クラスに属さないもの。,A name of a juridical person (1.4.6 Juridical_Person) that does not belong to any of the other subordinate categories (1.4.6.1 - 1.4.6.3).,,,,
+1,4,6,1,,,非営利団体名,"日本弁護士連合会,  宇宙開発事業団,  冷泉家時雨亭文庫
+  
+言語処理学会,  日本新聞協会,  日本芸術院,経団連,  全米ライフル協会,  日本エッセイスト・クラブ,  北海道アイヌ協会
+
+香港観光協会,  （財）ぼけ予防協会,  骨髄移植推進財団,  全国高等学校体育連盟,  本州四国連絡橋公団
+
+医療用医薬品製造業公正取引協議会,  トヨタ自動車労働組合,  国際協力事業団,  国際エンゼル協会
+
+全国黒人向上協会,  信用農協連合会 日本商工会議所,  日本労働組合総連合会
+
+日本記者クラブ,  日本赤十字社,  大阪商工会議所,  動力炉・核燃料開発事業団,  日本住宅金融
+
+アジア・太平洋放送連合,  アムネスティー・インターナショナル","  
+
+世界銀行（→国際組織名）
+
+えひめ民社協会（→政党名）","団体,  法人,  組織,  協会,  組合
+非営利団体,  業界団体,  公益法人,  財団法人,  社団法人.   学会,  労働組合,  NPO法人",,Nonprofit_Organization,"営利目的で経済行為を行わない法人の名前。
+例えば、公共の協会、財団、学会や公益法人、労働組合など。
+","A name of a nonprofit-oriented juridical person.
+Examples are a public association, academic organization, public service corporation, labor union, etc.  ",1,,各国の代表から成り立つ国際的な団体の場合は、国際組織名に分類。,
+1,4,6,2,,,企業名,"ＢＭＷ,  富士電機（株）,  三菱銀行,  トステム（株）,  岩波書店（株）
+ 
+日本生命,　シンガポール航空,　住友銀行,　NTT,　日本商事,　JR西日本,　アサヒビール,　キャノン,　トヨタ
+
+ソニー,　新日鉄,　NEC,　メルセデス・ベンツ日本,　AP通信,　CNN,　フジテレビ,
+
+チッソ,　京浜急行電鉄,　東電,　全日空,　松竹,　関空会社,　セイコーホールディングス,　コロムビア・レコード
+
+ＴＢＳラジオ
+
+NHK,  BBC,  日本銀行,台湾銀行,  国鉄,  首都鋼鉄（中国の国営企業）  ,農林中央金庫","株式会社(→ ＣＯＮＣＥＰＴ),　外資系企業(→ ＣＯＮＣＥＰＴ),
+
+NHK教育テレビ（→チャンネル名）
+
+JR(→企業グループ名)","企業,  会社,  出版社,  メーカー,  協同組合,  信用金庫,  プロダクション",,Company,営利目的で経済行為を行う組織の名前。,"A name of a company, which is a legal entity formed by a group of individuals to engage in and operate economical activities for the purpose of profit.",1,,,
+1,4,6,3,,,企業グループ名,"松下グループ,  三菱財閥,  日産コンツェルン,  JR,  みずほファイナンシャルグループ,  フジサンケイグループ,  ロックフェラー財閥,  デュポン財閥
+
+メルセデス・ベンツグループ,  ビッグ・スリー,    LVMH",企業グループ(→ ＣＯＮＣＥＰＴ),"企業,  財閥,  コングロマリット,  多国籍企業,  企業集団",,Company_Group,財閥、もしくは親会社を中心とした企業グループの名前。,"A name of a corporate group or group of companies, which is a collection of parent and subsidiary corporations that function as a single economic entity. ",1,,,
+1,4,7,,,政治的組織名,,,,,,Political_Organization,政治活動を行う組織の名前。,A name of an organization that involves itself in the political activities. ,,,,
+1,4,7,0,,政治的組織名,政治的組織名＿その他,"竹下派,  奥羽越列藩同盟
+
+公明市議団,  自民党府連,  都議会公明党,  日本共産党東京都議会議員団,  えひめ民社協会
+
+村山政権,  織豊政権,  エルシャド軍事独裁政権,  クリントン米政権
+
+江戸幕府,  パレスチナ解放機構","自由民主党(→ 政党名),  小泉内閣(→ 内閣名),  経済産業省(→ 政府組織名)
+
+連立政権(→ ＣＯＮＣＥＰＴ),  秘密警察(→ ＣＯＮＣＥＰＴ)","王朝,  議員連盟,  政治団体,  派閥,  政権",,Political_Organization_Other,政治的組織名のうち、その下位クラスに属さないもの。,A name of a political organization (1.4.7 Political_Organization) that does not belong to any of the other subordinate categories (1.4.7.1 - 1.4.7.4).,1,,,
+1,4,7,1,,,政府組織名,"文部省,  経済企画庁,  韓国中央情報部,  気象庁,  ナイ委員会
+
+大蔵省,  警察庁,  憲法調査会,  防衛庁,  チェチェン保安部,  内閣報道室,  高等教育局,  アビニョン教皇庁
+
+公正取引委員会,  阪神・淡路復興委員会,  地方分権推進委員会
+
+長野県警,  特高
+
+GHQ","連立政権(→ ＣＯＮＣＥＰＴ),  秘密警察(→ ＣＯＮＣＥＰＴ)
+
+東京高等裁判所（→公共機関名）,  青梅市市役所(→ 公共機関名),  平生幹部交番(→ 公共機関名)","機関,  警察,  地方議会,  内部部局,  行政機関,  議会,  委員会,  支局",,Government,"各国の行政政府および立法の組織の名前。原則として組織の運営に税金が使われているもの。
+ただし、裁判所や市役所、交番などの施設・場所として属性のあるものは含まない。","A name of a government, which is the organization determining and enforcing policies over a state, and in principle running itself with tax money.  
+This does not include those attributable to 1.5 Location or 1.6 Facility Category (such as a court, city office or police station).",1,,,
+1,4,7,2,,,政党名,"自民党,  二院クラブ,  平和・市民,  新党さきがけ,  共和党, 労働党,  シン・フェイン党, ロシア共産党,  日本新党,  中国国民党
+
+自民,  社会,  共産","右派政党(→ ＣＯＮＣＥＰＴ),  与党(→ ＣＯＮＣＥＰＴ)
+
+三塚派（→政治的組織名＿その他）","政党,  政治団体,  政党連合",,Political_Party,政治活動を行う政党や会派の名前。派閥など、政党内の小グループは含まない。,"A name of a political party, which is an organized group of people engaged in political activities. A smaller group inside a political party is not included here, but in 1.4.7.0 Political_Organization_Other Category. ",1,,,
+1,4,7,3,,,内閣名,"田中角栄内閣,  原敬内閣,  小渕恵三内閣,  三木武夫内閣,  西園寺公望内閣",,"内閣,  政府",,Cabinet,国の行政権を担当する最高の合議機関の名前。,"A name of a cabinet, which is the highest administrative organ of a nation.",1,,,
+1,4,7,4,,,軍隊名,"自衛隊,  自衛隊輸送機調整中隊,  陸上自衛隊第三師団,  アメリカ空軍, 　米海兵隊,   IRA,  ソ連軍
+
+ドゥダエフ政権部隊,  チェコ憲兵部隊,  国連軍, 欧州連合軍,  国連平和維持活動（ＰＫＯ）部隊","軍隊(→ ＣＯＮＣＥＰＴ),  海軍(→ ＣＯＮＣＥＰＴ)
+GHQ（→政府組織名）","部隊,  師団,  連隊,  軍隊,  軍,  連隊区,  軍事組織,  艦隊",,Military,軍事行動を行う組織の名前。,A name of a military or an armed force.,1,,,
+1,5,,,地名,,,,,,,Location,場所に関する名前。,A name of a place or location.,,,,
+1,5,0,,地名,地名＿その他,,"タイムズスクエア地区,  グランドゼロ,  グリニッチヴィレッジ,  横浜中華街
+
+千鳥ケ淵,  中野南公園テント村,  丸の内,  ハリウッド,  上野公園地区,  多摩ニュータウン
+
+エデンの園",宇宙(→ ＣＯＮＣＥＰＴ),"地域,  地区,  地名,  ニュータウン,  団地",,Location_Other,"地名のうち、その下位のクラスに属さないもの。
+交差点など地点の名前や、郵便住所には現れない小さな地区の名前などを含む。
+尚、場所を求める質問に対して不適切なものは含まない（例：宇宙→×）。","A name of a place or location (1.5 Location) that does not belong to any of the other subordinate categories (1.5.1 - 1.5.5).
+This includes a spot such as an intersection, and a small district that is not used in postal address. 
+This entity should be a word or phrase explaining the place or location of something; for example, Universe is not included here. ",1,,,
+1,5,1,,,ＧＰＥ,,,,,,GPE,政府を持つ地域の名前。,A name of an administrative division which manage itself through its own government. GPE stands for Geological and Political Entity.,,,,
+1,5,1,0,,ＧＰＥ,ＧＰＥ＿その他,"パレスチナ自治地域,  台湾,  プエルトリコ,  スパルタ（ギリシャ時代）,  香港,  大阪府・市,  仏領ポリネシア,  マカオ","  
+欧州（→大陸地域名）
+
+イングランド（→国名）
+
+神奈川県第18区(選挙区 → 国内地域名)","植民地,  地域,  都市国家,  領邦,  ミクロネーション,  海外領土,  自治管区,  自治区,  伯領,  諸候国",,GPE_Other,ＧＰＥのうち、その下位のクラスに属さないもの。 例えば、都市国家、ポリス、植民地、海外領、特別自治区など。,"A name of an administrative division (1.5.1 GPE) that does not belong to any of the other subordinate categories (1.5.1.1 - 1.5.1.3).
+Examples are a city state, polis, colony, overseas territory, special ward, etc.",1,,,
+1,5,1,1,,,市区町村名,"月形（町）,  五箇（村）,  レッチワース,  ブランドン,  リオ・デ・ジャネイロ
+横浜市,  目黒区,  精華町,  赤城村,  ニューヨーク・シティー,  神戸市灘区,  アストリア,  旭川
+
+港区赤坂,  千葉・船橋両市,
+
+永田町,  兜町","首都(→ ＣＯＮＣＥＰＴ),  都市(→ ＣＯＮＣＥＰＴ)
+
+バチカン市国(→国名)
+
+神奈川県第18区(選挙区 → 国内地域名)","村,  コムーネ,  町,  都市,  地名,  町名,  市,  大字,  コミューン,  市街区,  自治体,  州都,  県庁所在地,  アムプー",,City,"都道府県州郡名より下の行政区分の名前。
+例えば、地方自治の行政機能を持つ市区町村の名前、 （郵便住所に含まれる）市区町村以下の公的な地区名など。
+選挙区は含まない。","A name of a municipality like a city, town or village as a local self-governing body. 
+This includes a district smaller than a municipality and used in postal address. 
+An electoral district is not included here, but in 1.5.2.2 Domestic_Region Category.",1,,,
+1,5,1,2,,,都道府県州郡名,"群馬（県）,  カンザス,  ニューヨーク（州）,  熊本（県）,  アルトア
+ウエスト・チェスター・カウンティー, 東京都,  北海道,  大阪府,  神奈川県,  ＮＹ州,  雲南省,  滋賀,  ニューサウスウェールズ州,  山梨・長野両県
+
+長州藩  ","府(→ ＣＯＮＣＥＰＴ),  県(→ ＣＯＮＣＥＰＴ)","県,  郡,  州,  藩,  県級市,  自治県,  省,  令制国",,Province,"国のひとつ下の行政区分の名前。首長がおり、国によって下位に地方自治体を包含する。
+例えば、都道府県、州、郡、省、道、カウンティなど。","A name of a first-level administrative division where a head is appointed and in some cases a local self-governing body is comprised. 
+Examples are a prefecture, state, province, county, etc. ",1,,,
+1,5,1,3,,,国名,"アラブ首長国連邦,  オーストラリア,  西サモア,  コートジボアール,  唐, 
+日本,  アメリカ合衆国,  イングランド,  ソ連,  ロシア,  チェチェン,  モザンビーク,  北朝鮮,  アゼルバイジャン,
+
+米,  仏,  韓,  日,  UK,  豪共和国
+
+統一ドイツ,  旧ユーゴスラビア",台湾（→ＧＰＥ＿その他）,"国家,  王国,  国,  公国,  共和国",,Country,国の名前。,A name of a country.,1,,,
+1,5,2,,,地域名,,,,,,Region,ある範囲の土地の名前。,A name of a region.,,,,
+1,5,2,0,,地域名,地域名＿その他,"北極,  南極,  マリーバードランド   
+ロシア語圏",,地域,1,Region_Other,地域のうち、その下位のクラスに属さないもの。,A name of a region (1.5.2 Region) that does not belong to any of the other subordinate categories (1.5.2.1 - 1.5.2.2).,1,,,
+1,5,2,1,,,大陸地域名,"オリエント,  北アフリカ,  ゴンドワナ大陸,  バビロニア,  陸半球
+アジア,  ヨーロッパ,  カリブ地域,  東南アジア,  スカンディナビア,  旧ユーゴ地域,  アジア・オセアニア地区
+
+新興工業国・地域,  ＮＩＥＳ,  旧英植民地,  バルト三国,  旧ユーゴ３国,  南太平洋非核地帯
+
+北米,  欧州,  欧,  欧米,  東洋,  南半球,  北欧諸国","亜寒帯(→ ＣＯＮＣＥＰＴ)
+マリーバードランド(南極の地域の名称 → 地域名＿その他) ","地域, 超大陸,  大陸,  地方",,Continental_Region,"国よりも大きな地域を差す名前。 
+大陸を含む。","A name of a region larger than a country. 
+This includes a continental area.",1,,,
+1,5,2,2,,,国内地域名,"奥羽地方,  中部地方,  カルナティック,  ボスニア,  可美
+関東,  北日本,  東海岸,  京浜工業地帯,  京阪奈,  信州,  東海,  スモーランド地方,  大阪湾ベイエリア
+
+ロシア南部,  長野県北部,  シベリア,  北方領土,
+
+北海道二区,  近畿・中国・四国地区
+
+全国４７都道府県","大和路（→道路名）
+
+４７都道府県（→場所数＿その他）
+
+マンハッタン地区（→市区町村名）
+
+タイムズスクエア地区（→地名＿その他）,  上野公園地区（→地名＿その他）","選挙区,  地域,  地方,  都市圏,  荘園,  地方行政区",,Domestic_Region,"国の中の一部の地域で、自治体を持たず、かつ郵便住所として公式に 認められてない地域を差す名前。
+地域と認められうる範囲を持つことが必要。 市よりも大きい地域を指す場合に用いる。市よりも小さい場合は「地名＿その他」に分類する。
+ 特定の地域の通称や荘園、選挙区を含む。 ","A name of a region inside a country that does not have its own government and is not used in postal address either.  The region should refer to an area with a certain range that is bigger than a city. The area small than a city is included in 1.5.0 Location_Other Category.  
+This includes a popular name of a specific area, an electoral district, or a manor.",1,,,
+1,5,3,,,地形名,,,,,,Geological_Region,地形の名前。,"A name of a geological region, which is an area of any size that can be separated from surrounding land on the basis of its shape.",,,,
+1,5,3,0,,地形名,地形名＿その他,"アルタミラ洞窟,  野島断層,  秋芳洞,  阿波の土柱,  利根川構造線,  白保サンゴ礁,  アパラチア造山帯,  琉球火山帯
+
+ヨルダン地溝帯,  ロス棚氷,  ファンガタウファ環礁,  フィリピン海プレート,  白糸の滝,  大和雪原
+
+グランド・キャ二オン,  甲府盆地,  関東平野,  エトシャ低地,  アガラス岬,  エアーズ・ロック,  千畳敷カール,  千畳敷,  大西洋中央海嶺","飛騨高地(→ 山地名),  白馬温泉(→ 温泉名),  マゼラン海峡(→ 海洋名),  安芸灘(→ 海洋名) ","滝,  岬,  半島, 渓谷,  海岸,  環礁,  盆地,  渓谷,  平野,  砂漠,  鍾乳洞,  地層,  プレート,  湧き水",,Geological_Region_Other,"地形名のうち、その下位のクラスに属さないもの。 
+例えば、半島、平野、断層、鍾乳洞など。","A name of a geological region (1.5.3 Geological_Region) that does not belong to any of the other subordinate categories (1.5.3.1 - 1.5.3.7).
+Examples are a peninsula, plain, geologic fault, stalactite cave, etc. ",1,,,
+1,5,3,1,,,温泉名,"月ヶ瀬温泉,　遠刈田温泉, 　白馬温泉, 　福地温泉, 　湯の山温泉,  十和田湖温泉郷",,"温泉,  温泉郷,  野湯,  冷泉,  鉱泉",,Spa,"温泉の名前。
+温泉施設が密集している地域を含む。","A name of a hot spring or spa.
+This includes an area crowded with hot spring facilities.",1,,,
+1,5,3,2,,,山地名,"富士山,  間ノ岳,  青崩峠,  中央アルプス,  木曽駒ケ岳,  飛騨高地","アパラチア造山帯（→地形名＿その他）, 琉球火山帯（→地形名＿その他）, ヨルダン地,溝帯（→地形名＿その他）
+
+","山,  峠,  火山,  山脈,  山地,  高原,  最高峰,  丘",,Mountain,"山の名前。 
+山脈、山地、丘陵、高原、砂丘、峠、高地等を含む。","A name of a mountain, a group of mountains, or any hill. 
+This includes a mountain range, hügelland, dune, highland, or mountain pass. ",1,,,
+1,5,3,3,,,島名,"ラクシャドウィープ諸島,  友ヶ島,  大スンダ列島,  西表島,  沖縄諸島",,"島,  諸島,  島嶼,  火山島,  列島,  中州",,Island,"島の名前。
+諸島、列島、群島等を含む。",A name of an island or a group of islands.,1,,,
+1,5,3,4,,,河川名,"早出川,  アーレ川,  マージー川,  千種川,  ダニューブ川, 黄河、利根川,  揚子江","白糸の滝(→地形名＿その他), ナイアガラ瀑布(→地形名＿その他), 三途の川(→地名＿その他)
+
+スエズ運河(→ 運河名),  玉川上水(→ 運河名)
+
+鰍沢河岸(→ 地形名＿その他)
+
+","河川,  川,  支流,  本流,  氷河,  源流",,River,"川の名前。
+用水路や運河等の施設は含まない。
+河岸等の陸地部分は含まない。","A name of a river. 
+An artificial facility such as a canal is not included here, but in 1.6.6.4 Canal Category.
+A riverside area is also not included here but in 1.5.3.0 Geological_Region_Other Category, for it refers to the land area.",1,,,
+1,5,3,5,,,湖沼名,"大浪池,  グレート湖,  シルヤン湖,  丸沼,  サロマ湖
+琵琶湖,  印旛沼,  富士五湖,  五大湖","琵琶湖畔（→地形名＿その他）
+赤倉温泉(→温泉名)
+小瀬川ダム(→ ダム名)","湖,  池,  沼,
+人造湖,  カルデラ湖,  潟湖,  貯水池",,Lake,"湖沼の名前。
+湖 、沼、池、泉等を含む。
+ダム等の施設は含まない。
+湖畔等の陸地部分は含まない。","A name of a lake, marsh or pond. 
+An artificial facility such as a dam is not included here, but in 1.6.2 Dam Category.
+A lakeside area is also not included here but in 1.5.3.0 Geological_Region_Other Category, for it refers to the land area. ",1,,,
+1,5,3,6,,,海洋名,"日本海,  マゼラン海峡,  安芸灘,  太平洋,  紅海,  壱岐水道,  硫黄島沖,  南海,  伊豆東方沖, バルト海,  周防灘,  関門海峡,  ホルムズ海峡, ビーグル水道",七里ガ浜（→地形名＿その他）,"海峡,  海,  水道,  内海,  海域,  海洋",,Sea,"海、海洋の名前。
+海峡、海門、沖等を含む。
+浜・海岸などの陸地部分は含まない。","A name of a sea, an ocean, or a part of it.
+This includes a strait, or an offshore area. 
+A shore or beach is not included here but in 1.5.3.0 Geological_Region_Other Category, for it refers to the land area.",1,,,
+1,5,3,7,,,湾名,"シェレホフ湾,  浦戸湾,  九十九湾,  ピョートル大帝湾,  ベンガル湾",東京湾岸（→地形名＿その他）,"湾,  入り江,  海域,  フィヨルド,  支湾",,Bay,"湾の名前。
+湾岸などの陸地部分は含まない。","A name of a bay, or gulf. 
+A bay or gulf coast area is not included here but in 1.5.3.0 Geological_Region_Other Category, for it refers to the land area.",1,,,
+1,5,4,,,天体名,,,,,,Astronomical_Object,宇宙に存在する星などの名前。,A name of an astronomical object that exists in the universe.,,,,
+1,5,4,0,,天体名,天体名＿その他,"太陽系
+うしかい座ボイド,  CID-42","  
+
+宇宙(→ ＣＯＮＣＥＰＴ),  流れ星(→ ＣＯＮＣＥＰＴ)
+
+スプートニク(→ 宇宙船名)","クエーサー,  天体,  超新星
+ガンマ線バースト,  超新星残骸,  ブラックホール",,Astronomical_Object_Other,"天体名のうち、その下位のクラスに属さないもの。
+人工衛星は含まない。","A name of an astronomical object (1.5.4 Astronomical_Object) that does not belong to any of the other subordinate categories (1.5.4.1 - 1.5.4.5).
+An artificial satellite is not included here but in 1.7.18.5 Spaceship Category.",,,,
+1,5,4,1,,,天体部分名,"ヘルツシュプルング (クレーター),  キンセイ峡谷,  冬の湖",,"クレーター,  海,  地名",,Astronomical_Object_Part,"天体の部分の名前。
+例えば、クレーター、山など。","A name of a part of an astronomical object. 
+Examples are a crater or mons. ",,,,
+1,5,4,2,,,銀河名,"銀河系,  三裂星雲,  馬頭星雲,  獅子座流星群
+アンドロメダ銀河,  さんかく座銀河,  オリオン大星雲,  大マゼラン雲", 流れ星(→ ＣＯＮＣＥＰＴ),"銀河,  星団,  星雲",,Galaxy,星雲、銀河の名前。,"A name of a galaxy, or nebula. ",,,,
+1,5,4,3,,,恒星名,"アケルナル,  ウォルフ‐ライエ星,  カノープス,  ベガ,  レグルス
+シリウス,  北極星,  べガ、リゲル,  アルニラム", 太陽(→ 惑星＿衛星名),"恒星,  Ｘ等星,  矮星,  連星",,Star,恒星の名前。,A name of a star except the Sun.,,,,
+1,5,4,4,,,惑星＿衛星名,"木星,  土星,  海王星,  ベスタ,  イカルス
+太陽,  地球,  月,  宵の明星,  冥王星
+ガリレオ衛星,  カロン,  1811年の大彗星,  バーナード・ボアッティーニ彗星,  池谷・関彗星 (C/1965 S1),  ハリー彗星,  エンケ彗星,  本田彗星",,"小惑星,  衛星,  彗星,  流星,  流星群,  太陽系外縁天体,  惑星,  天体",,Planet_Satellite,"太陽系内外の惑星、衛星の名前。
+小惑星、彗星を含む。","A name of a planet or asteroid in the Solar System. 
+This includes a minor planet or coment. ",,,,
+1,5,4,5,,,星座名,"いて座,  エリダヌス座,  きりん座,  こと座,  ほうおう座、翼宿",,"星座,  第Ｘ宿",,Constellation,星座の名前。,"A name of a constellation, which is a group of stars that forms an imaginary outline or pattern on the celestial sphere.",,,,
+1,5,5,,,アドレス,,,,,,Address,住所・アドレス。,An address.,,,,
+1,5,5,0,,アドレス,アドレス＿その他,,,,,Address_Other,アドレスのうち、その下位クラスに属さないもの。,An address (1.5.5 Address) that does not belong to the other subordinate category (1.5.5.1 Postal_Address).,,,,
+1,5,5,1,,,郵便住所,"東京都目黒区大岡山２−１２−１,  １２３−００４５,  富士見町３−２","東京都(→都道府県州名), 　目黒区(→ 市区町村名）,  大岡山(→ 市区町村名)",住所,,Postal_Address,郵便用の住所。番地以下の記載があるもの。郵便番号のみを含む。,"A postal address that includes mention of a lot number, street number, or a house number. 
+This includes a zip code itself.",,,,
+1,6,,,施設名,,,,,,,Facility,建物や場所としての属性を持つ施設の名前。,A name of a place or building that provides a particular service.,,,,
+1,6,0,,施設名,施設名＿その他,," エンパイヤステートビル,   スーパーカミオカンデ,   足尾銅山,  桂川水門
+
+大型ハドロン衝突型加速器,   検察庁舎,   神戸本社ビル,   第二サティアン,      東京タワー
+
+阪神大震災被災者用仮設住宅,   南いわき幹線（送電線）
+
+幕張メッセ、東京都庁舎","  
+
+柏崎刈羽原子力発電所（→ 発電所名）,   サンシャインシティー（→ 商業施設名）","ビル,  建築,  マンション,  広場,  建物,  施設
+
+中継局,  宿場,  歴史的建造,  灯台,  鉱山,  送信所,  陣屋,  塔,  関所,  民家,  邸宅,  浄水場",,Facility_Other,施設名のうち、その下位クラスに属さないもの。,A name of a facility (1.6 Facility) that does not belong to any of the other subordinate categories (1.6.1 - 1.6.6).,1,,,
+1,6,1,,,施設部分名,,"１２０４号室,   華の間,   ハチ公口,   第一滑走路
+
+シルバークロス（ホテル内の結婚式用チャペル）,   数学Ｂ棟
+
+中突堤（波止場の名前）,   ぷかりさん橋（ターミナルの名前）
+
+トゥーン・タウン, スプラッシュマウンテン","台所(→ ＣＯＮＣＥＰＴ),   玄関(→ ＣＯＮＣＥＰＴ),   滑走路(→ ＣＯＮＣＥＰＴ),   体育館(→ ＣＯＮＣＥＰＴ),   本館(→ ＣＯＮＣＥＰＴ),   別館(→ ＣＯＮＣＥＰＴ)","アトラクション,  テーマランド,  観覧車,  テーマポート",,Facility_Part,"施設の部分の名前。
+例えば、ビルの階、ホテルの部屋、駅の出口、波止場、遊園地のアトラクションなど。","A name of a part of a facility.
+Examples are a floor of a building, a room of a hotel, an exit of a station, a dockside of a port, an attraction of an amusement park, etc.",1,,,
+1,6,2,,,ダム名,,"八ッ場ダム, 黒部ダム, ロスダム",,"ダム,  堰",,Dam,発電、貯水等の目的で水を堰き止めるための施設の名前。,"A name of a dam, which is a barrier that stops or restricts the flow of water or underground streams for the purpose of storing water, generating electricity, etc.",1,,,
+1,6,3,,,遺跡名,,,,,,Archaeological_Place,遺構もしくは遺物があるところの名前。,A name of an archaeological site.,,,,
+1,6,3,0,,遺跡名,遺跡名＿その他,"トゥルカナ遺跡,   犬伏瓦経塚,   貔子窩,   高根木戸遺跡群,   鬼ノ城遺跡,   伊良湖東大寺瓦窯址","大阪城(→ 城名), ヴェルサイユ宮殿(→ 宮殿名)","遺跡,  世界遺産,  跡,  史跡
+
+城,  貝塚",,Archaeological_Place_Other,"遺跡名のうち、その下位クラスに属さないもの。
+例えば、遺跡、遺跡群、跡地、城址など。","A name of an archaeological site (1.6.3 Archaeological_Place) that does not belong to the other subordinate category (1.6.3.1 Cemetery). 
+Examples are historic remains, castle ruins, or remained sites.",1,,,
+1,6,3,1,,,墳墓名,"那須八幡塚古墳,  岩戸山古墳, 青山霊園,  チブサン古墳,  昭陵, タージマハル",前方後円墳(→ ＣＯＮＣＥＰＴ),"古墳,  前方後円墳,  墓地,  墓,  霊廟,  霊園",,"Cemetery
+","墓の名前。
+古墳から新しい墓までのすべてを含む。","A name of a grave or tomb. 
+This includes ancient ones as well as new ones.",1,,,
+1,6,4,,,ＦＯＥ,,,,,,FOE,建物や場所としての属性の他に組織名としての属性も持つ施設の名前。主体となって発言するような施設の名前（例：ホワイトハウスが発表した）。,A name of a place or building which is at the same time recognized and have a voice as an organization (e.g. the White House). FOE stands for Facility and Organizational Entity.,,,,
+1,6,4,0,,ＦＯＥ,ＦＯＥ＿その他,"ホワイトハウス,     議員会館,   国会記者会館, 
+
+赤坂離宮（迎賓館）,   迎賓館,   首相官邸,   池坊会館
+
+朝日アートセンター,   京都府赤十字血液センター,   函館五稜郭斎場,   湯布院ワイナリー,   ライフケア松戸会堂
+
+大宮典礼会館
+
+千里会館,   和歌山祭典鳴神斎場,   辻堂海水浴場","本社(→ ＣＯＮＣＥＰＴ),   支店(→ ＣＯＮＣＥＰＴ)","施設
+郵便局,  営業所,  海水浴場,  刑務所,  牧場,  観光施設",,FOE_Other,ＦＯＥのうち、その下位のクラスに属さないもの。,A name of an organizational facility (1.6.4 FOE) that does not belong to any of the other subordinate categories (1.6.4.1 - 1.6.4.18).,1,,,
+1,6,4,1,,,軍事基地名,"横田基地, アンドルーズ空軍基地, 網走分屯基地
+普天間飛行場(→ 軍事基地名および空港名)","防衛大学校(→ 学校名)
+","基地,  駐屯地,  分屯基地,  演習場",,Military_Base,軍隊の活動拠点となる施設の名前。,"A name of a military base, which is a facility directly owned and operated by or for the military.",1,,,
+1,6,4,2,,,城名,"熊本城, ノイシュヴァンシュタイン城,  サン・ジョルジェ城 ,セントルイス砦,渟足柵,  五稜郭(→ 城名および遺跡名＿その他)",,"城,  要塞,  城跡,  跡,  城郭,  城塞",,Castle,防備のための施設の名前。,"A name of a castle, which is a building fortified against attack.",1,,,
+1,6,4,3,,,宮殿名,"ヴェルサイユ宮殿(→ 宮殿名および遺跡名＿その他), バッキンガム宮殿,   クレムリン,  アボメイの王宮群(→ 宮殿名および遺跡名＿その他),  東宮御所",赤坂離宮(迎賓館→FOE＿その他),"宮殿,  離宮,  宮殿跡,  王宮,  御用邸,  邸宅,  宮",,Palace,"王族、皇族、君主、教皇の居住施設の名前。
+御用邸、離宮等の別荘を含む。","A name of a palace, which is a grand residence, especially a royal residence, or the home of a head of state or some other high-ranking dignitary, such as a bishop or archbishop. ",1,,,
+1,6,4,4,,,公共機関名,"東京家庭裁判所,   高槻市役所,   都立大学駅前交番,    県警駒ヶ根署
+
+花見川図書館,   国立公文書館,   芦屋保健所,   県立総合教育センター,   文京区民センター,   国会図書館,   ベルギー大使館
+
+大阪税関,   神戸市児童相談所,   兵庫県立女性センター,   東京都府中市生涯学習センター
+
+フランス大使館・領事館,   フランス総領事館","  
+
+県警(→ ＣＯＮＣＥＰＴ),   市役所(→ ＣＯＮＣＥＰＴ)
+
+長野県警（→政府組織名）
+
+最高裁判所（→政府組織名）
+
+三康図書館(私立図書館→ ＦＯＥ＿その他)","施設,  公共施設,  複合施設
+
+警察署,  公立図書館,  役所,  消防署,  簡易裁判所,  運転免許試験場,  大使館",,Public_Institution,"建造物、場所としての属性がある公共機関の名前。
+例えば、役所、交番、裁判所、公民館など。","A name of a public facility and organization. 
+Examples are a public office, police box, post office, courthouse, and public center.",1,,,
+1,6,4,5,,,宿泊施設名,"帝国ホテル, 翠松園, ザ・リッツ・カールトン大阪",リッツ・カールトン(→ ブランド名),"ホテル,  宿泊施設,  旅館,  リゾート施設",,Accommodation,"人が泊まるための施設の名前。
+ホテル、旅館、ペンション、ユースホテルなど。","A name of a lodging or holiday accommodation facility. 
+Examples are a hotel, motel, inn, pension, or a youth hostel.",1,,,
+1,6,4,6,,,医療機関名,"さくらクリニック, 国立がん研究センター(医療機関名および研究機関名), 田園調布中央病院, 新潟大医学部付属病院",国立感染症研究所(→ 研究機関名),"医療機関,  病院,  ",,Medical_Institution,医療を提供する施設の名前。,A name of a medical institution. ,1,,医療研究所で医療を提供しているものは、医療機関名と研究機関名の両方でタグ付け。,
+1,6,4,7,,,学校名,"プリンストン大学,  ローマ大学,  香川医科大学,  京都大学,  東大,  滋賀文化短大,  國學院大學北海道短期大学部
+
+新宿高校,   目黒十中,  大阪市立大領小学校,   勧学院,   内原訓練所,  東京アカデミー,   ねむの木学園,  くじら保育園
+
+山田進学塾,   NOVA外語学院","  
+
+国立大学(→ ＣＯＮＣＥＰＴ),   私立高校(→ ＣＯＮＣＥＰＴ),   日本語学校(→ ＣＯＮＣＥＰＴ)
+
+東京大学大学院医学系研究科・医学部(→ 組織名＿その他)","小学校,  中学校,  高等学校,  大学,  学校法人,  専門学校,  特別支援学校,  幼稚園,  教育機関,  学校",,School,"学校の名前。
+例えば、幼稚園、保育園、予備校、訓練所、養成所、塾など。","A name of a school. 
+This includes a kindergarten, cram school, or vocational school.",1,,,
+1,6,4,8,,,研究機関名,"ストックホルム国際平和研究所,  グリニッジ天文台,  種子島宇宙センター, 国立がん研究センター(医療機関名および研究機関名),  地球産業文化研究所","ローマクラブ(シンクタンク → 非営利団体名), 社会安全研究所 (シンクタンク → 企業名)","研究所,  研究機関,  天文台,  研究拠点, シンクタンク,  研究施設",,Research_Institute,"研究機関の名前。
+例えば、研究所や天文台など。","A name of a research institute, or other related facility such as an astronomical observatory.",1,,,
+1,6,4,9,,,取引所名,"東京証券取引所,   関西商品取引所,   神戸生糸取引所,   三品取引所","フリーマーケット(→ ＣＯＮＣＥＰＴ),   生花市場(→ ＣＯＮＣＥＰＴ)
+
+入谷朝顔市（→催し物名＿その他）","取引所,  株式市場,  金融市場",,Market,"常設の取引所・市場の名前。
+例えば、証券取引所、商品取引所など。","A name of a exchange or market, such as a stock exchange or commodity exchange.",1,,,
+1,6,4,10,,,発電所名,"柏崎刈羽原子力発電所, 田子倉発電所, 松川地熱発電所, グラブリーヌ原子力発電所",,"発電所,  廃炉",,Power_Plant,発電のための施設の名前。,A name of a power plant.,1,,,
+1,6,4,11,,,公園名,"上信越高原国立公園,  ザイオン国立公園,  旧円覚寺庭園,  小石川後楽園, 
+セントラルパーク,   代々木公園,   区立平野さくら公園,   モナス公園,   兼六園,   京都御苑,   ウイズリーガーデン,   刈谷市総合運動公園",,"公園,  運動公園,  自然公園,  庭園,  ジオパーク,  ",,Park,公園、庭園の名前。,A name of a park or garden.,1,,,
+1,6,4,12,,,商業施設名,"御殿場プレミアム・アウトレット, ラゾーナ川崎プラザ, ららぽーと湘南平塚, イオンタウン名西,  玉川高島屋,   鷹取商店街,   サンシャインシティー
+
+衆議院本館理髪店, セブンイレブン中央区役所前,   佐々木クリーニング,  築地魚市場",,"ショッピングセンター,  商業施設,  百貨店, 商店街,  ショッピングモール,  地下街, ファッションビル,  アウトレットモール",,Shopping_Complex,"個人商店の名前及び複数の店舗が集まった施設の名前。
+例えば、デパートなどのショッピングセンターなど。
+映画館、レストラン、ゲームセンター併設の複合商業施設や地下街、商店街を含む。","A name of a shop, or a complex of shops including a department store. 
+This includes a commercial complex which has entertainment venues such as movie theaters, restaurants or game centers, a neighborhood center, underground shopping archade, or a commercial district.",1,,,
+1,6,4,13,,,競技施設名,"東京ドーム,   花園ラグビー場,   武道舘,   両国国技館,   千葉ポートアリーナ,   伊勢カントリークラブ,   鳥羽CC
+
+千葉ポートアリーナ,   府中競馬場,   日本武道館",,"野球場,  スタジアム,  スキー場,  競技場,  球技場,  ゴルフ場,  スポーツ施設,  運動公園",,Sports_Facility,"スポーツ施設の名前。
+例えば、野球場、ラグビー場、陸上競技場、武道場など。","A name of a sport-related facility.
+Examples are an athletics ground, a stadium, a baseball park,　a martial art gym, etc.",1,,,
+1,6,4,14,,,美術博物館名,"ルーブル美術館,  ボストン美術館,  東京国立博物館,  日本民俗資料館, 
+東京国立美術館,   大英博物館,   石川啄木記念館,   ナショナルギャラリー,   江戸東京博物館,   都現代美術館
+
+近鉄アート館,   ブリュッセル王立美術歴史博物館,   エル・ムゼオ・デル・バリオ,   ルーブル,   エルミタージュ,   MoMA
+
+広島平和記念資料館,   茨城県立歴史館,   神奈川近代文学館, 若州一滴文庫",ギャラリーやまね（→ＦＯＥ＿その他),"博物館,  美術館,  資料館,  科学館,  施設,  記念館,  文学館,  展示施設,  文化施設",,Museum,"美術館や博物館の名前。
+記念館を含む。","A name of a museum. 
+This includes a memorial. ",1,,,
+1,6,4,15,,,動植物園名,"上野動物園,   ヒールズビル野生動物公園,   ベルリン動物園,   ニューヨーク動物公園,   広島市安佐動物公園",,"動物園,  植物園,  水族館,  牧場,  施設,  テーマパーク,  サファリパーク,  庭園,  バラ園",,Zoo,動物園、植物園、水族館などの名前。,"A name of a zoo, botanic garden, or aquarium.",1,,,
+1,6,4,16,,,遊園施設名,"東京ディズニーランド,  こどもの国,  ユネスコ村, ＵＳＪ,   後楽園ゆうえんち,   東京ドイツ村","兼六園（→公園名）
+
+トゥーンタウン（遊園施設内のエリア名→施設部分名）
+
+ＦＵＪＩＹＡＭＡ（遊園施設内のアトラクション名→プロダクト名＿その他）
+
+ヴィラズ アット アヤナ リゾート(リゾートホテル → 宿泊施設名) ","遊園地,  テーマパーク,  レジャー施設,  娯楽施設",,Amusement_Park,"遊園施設の名前。
+テーマパークを含む。","A name of an amusement park, or theme park.",1,,,
+1,6,4,17,,,劇場名,"明治座,  ボリショイ劇場,  パリ・オペラ座,  メトロポリタン歌劇場,   歌舞伎座,   カーネギー・ホール,   帝国劇場,   コベント・ガーデン王立歌劇場,   赤坂BLITZ",,"映画館,  劇場,  ホール,  文化施設,  ライブハウス,  複合施設,  ミニシアター,  シネマコンプレックス,  寄席,  演芸場,  芝居小屋",,Theater,"観劇用、鑑賞用の施設の名前。
+例えば、劇場やシアターなど。","A name of a theater, where theatrical works or plays are performed.",1,,,
+1,6,4,18,,,宗教施設名,"寿福寺,  サン・ドニ修道院,  円教寺,  多度神社,  スルタン・ハッサン・モスク, 
+伊勢神宮,   ノートルダム,   東大寺,   二月堂,   セントパトリック教会,   サン・ピエトロ大聖堂,   菊田川神社,   霊山観音微笑殿
+
+六角堂,   三十三間堂,   オリンポス神殿,   イマーム・モスク,   本願寺津村別院","菩提寺(→ ＣＯＮＣＥＰＴ)
+
+シルバークロス（結婚式場内にあるチャペル→施設部分名）","神社,  寺院,  協会,  寺,  大聖堂,  聖堂,  修道院,  摂社,  天満宮,  モスク",,Worship_Place,"宗教に関する祭事を主な目的にした施設の名前。
+例えば、神社仏閣、教会、モスクなど。","A name of a place or facility of worship where people come to perform acts of devotion, veneration, or religious study. 
+Examples are a church, a temple, a shrine, a mosque, etc.",1,,,
+1,6,5,,,交通施設名,,,,,,Transport_Facility,各種交通機関の施設の名前。,A name of a facility used in the transportation system.,,,,
+1,6,5,0,,交通施設名,交通施設名＿その他,静岡ヘリポート,,ヘリポート,,Transport_Facility_Other,交通施設のうち、その下位クラスに属さないもの。,A name of a transportation facility (1.6.5 Transport_Facility) that does not belong to any of the other subordinate categories (1.6.5.1 - 1.6.5.6).,,,,
+1,6,5,1,,,停車場名,"赤坂一丁目東,   秋保神社前, 砂津バスセンター, 曙町停留場,
+三重交通志摩営業所(→ 停車場名, ＦＯＥ＿その他)
+",,"駅,  営業所,  バスターミナル,  停留所,  バス停,  路線,  サービスエリア",,Car_Stop,"車が停車する場所の名前。
+例えば、バスなどの自動車が発着するバスターミナル、停留所など。","A name of a designated place where cars stop, such as a bus station or stop.",1,,店舗を伴うPAは停車場名、商業施設名の両方に分類。,
+1,6,5,2,,,鉄道駅名,"上野駅,   梅田駅,   グランド・セントラル・ステーション,   前栽駅,   ストックホルム中央駅,   市ヶ谷駅",,"駅,  廃駅,  鉄道駅,  停留場,  貨物駅",,Station,鉄道が発着し、客や貨物の積み下ろしをする駅の名前。,A name of a train or subway station where passengers and cargo are loaded and unloaded. ,1,,,
+1,6,5,3,,,空港名,"東京国際空港,  ジョン・エフ・ケネディ国際空港,  オヘア国際空港, 
+成田空港,   ＪＦケネディ空港,   ウェストチェスター空港,   関空,   関西国際空港,   大分県央飛行場,   普天間飛行場",砂川ヘリポート（ → 交通施設名＿その他）,"空港,  飛行場,  基地
+
+国際空港,  地方管理空港,  軍用飛行場,  航空基地",,Airport,飛行機が発着し、客や貨物の積み下ろしをする飛行場の名前。,A name of an airport or aerodrome where passengers and cargo are loaded and unloaded. ,1,,,
+1,6,5,4,,,港名,"神戸港,  安濃津,  十三湊,  韓泊,  横瀬浦
+東京港,   ニューヨーク港,   大輪田泊,   ポート・ディクソン,   新西宮ヨットハーバー,   浦内川船着場,   舞鶴",総合静脈物流拠点港（リサイクルポート → FOE＿その他）,"港湾,  港,  港湾施設,  ヨットハーバー",,Port,海港や船着場など船が出入りする施設の名前。,"A name of a maritime commercial facility such as a port, harbor, wharf or dock.",1,,,
+1,6,5,5,,,道路施設名,"クロスタワー駐車場,     ＴＣＡＴ,   京都駅パーキングエリア,   ポートオーソリティ,    渋谷東P
+海老名サービスエリア,  道の駅八王子滝山, 東名ジャンクション, 高砂西ランプ,
+西宮インターチェンジ
+",,"インターチェンジ,  パーキングエリア,  出入口,  ジャンクション,  サービスエリア,  料金所",,Road_Facility,"客や貨物の積み下ろしを目的としない道路施設の名前。
+例えば、インターチェンジ、駐車場など。","A name of a road facility or area that is not established for the purpose of loading and unloading passengers or freight.
+This includes a parking lot, or a rest area on a highway.",1,,,
+1,6,5,6,,,鉄道施設名,"上大平台信号場,  柳川車両基地, 一ノ関運輸区, 西日本旅客鉄道吹田工場",,"信号場,  車両基地,  車両工場,  機関区,  車庫,  操車場,  オフレールステーション",,Railway_Facility,"客や貨物の積み下ろしを目的としない鉄道施設の名前。
+例えば、車両基地、信号場など。","A name of a railway facility or area that is not established for the purpose of the purpose of loading and unloading passengers or freight. 
+This includes a rail yard, or a signal station",1,,,
+1,6,6,,,路線名,,,,,,Line,人が移動する為に用いる路線の名前。 ,A name of a line or route for transportation. ,,,,
+1,6,6,0,,路線名,路線名＿その他,"ラスベガス便,   駒ケ岳ロープウェイ,   シルクロード,  
+中央ライナー(→ 車名, 路線名＿その他), ムーバス(→ 車名, 路線名＿その他), 
+北区コミュニティバス(→ 車名, 路線名＿その他)",北上幹線(送電線 → 施設名＿その他),"コミュニティバス,  高速バス,  バス路線,  自治体バス,  ロープウェイ,  ",,Line_Other,"路線のうち、その下位クラスに属さないもの。 
+例えば、航空路や、バス路線、大まかな道のりを指す「シルクロード」など。","A name of a line (1.6.6 Line) that does not belong to any of the other subordinate categories (1.6.6.1 - 1.6.6.6).
+Examples are an air route, a bus route, and Silk Road.",1,,,
+1,6,6,1,,,道路名,"中国横断自動車道, ブロードウェー,  オペラ座通り,  山辺の道
+
+名神高速道路,   国道２５号,   アウトバーン,   甲州街道,   阪神高速道路,  法善寺横丁,   御堂筋
+
+ロマンチック街道,   伊勢路,   ヨーロッパ国際道路網,   近畿自動車道
+
+ 利根川サイクリングロード,   大野川歩行者・自転車専用,   日本陸連公認びわ湖毎日マラソンコース","サンロード(商店街 → 商業施設名)
+銀座一丁目交差点（→地名＿その他）,   丸田町ジャンクション（→交通施設名＿その他）","県道,  地方道,  国道,  道路,  通り,  路線,  街道,  幹線道路",,Road,自動車、自転車、人のための道路の名前。 ,"A name of a road, which is a route or way on land improved to allow travel by foot, motor vehicle, bicycle, or horse. ",1,,,
+1,6,6,2,,,鉄道路線名,"関西本線,  山口線,  東海道本線,  釧網本線,  宝成線, 
+丸の内線,   東海道新幹線,   室蘭本線,   シベリア鉄道,   天理線","地下鉄(→ ＣＯＮＣＥＰＴ)
+
+北上幹線(送電線 → 施設名＿その他)","鉄道路線,  路線,  鉄道線,  交通線,  地下鉄,  軌道路線,  鉄道,  路面電車,  幹線,  貨物船",,Railroad,"鉄道路線の名前。
+例えば、電車、地下鉄、モノレールなど。","A name of a train line, subway line, or monorail line.",1,,,
+1,6,6,3,,,航路名,"西廻海運,  エンパイア・ルート,  青函航路,  宇高航路,  海の道",,"航路,  連絡船,  渡し船,  フェリー,  遊覧船,  水上バス,  海上輸送",,Water_Route,船が通る道筋の名前。,A name of a route that ships use.,,,,
+1,6,6,4,,,運河名,"スエズ運河,   アムステルダム運河,   カラクム運河,   見沼通船堀,   セント・ローレンス水路, 香川用水",,"運河,  用水路,  水路",,Canal,人工的に陸地を掘ってつくった水路の名前。,A name of an artificial waterway such as a canal.,1,,,
+1,6,6,5,,,トンネル名,"アペニン・トンネル,  清水トンネル,  丹那トンネル,  モファット・トンネル, 
+青函トンネル,   リンカーン・トンネル,   白糸トンネル,   ユーロトンネル",,トンネル,,Tunnel,トンネルの名前。 通るものは人間でも鉄道でも電車でもよい。,"A name of a tunnel, irrespective of the usage. It may be for foot, for vehicular road traffic, for rail traffic, or for a canal.",1,,,
+1,6,6,6,,,橋名,"瀬戸大橋,  ロンドン・ブリッジ,  万世橋,  天草五橋,  クイーンズボロ橋,   眼鏡橋,   竜神大吊橋","  
+吊橋(→ ＣＯＮＣＥＰＴ),   アーチ橋(→ ＣＯＮＣＥＰＴ)
+","橋,  橋梁,  吊り橋,  歩道橋",,Bridge,川などに掛る橋の名前。 渡るものは人間でも鉄道でも電車でもよい。 ,"A name of a bridge, irrespective of the usage. It may be for foot, for vehicular road traffic, for rail traffic, or for a canal.",1,,,
+1,7,,,プロダクト名,,,,,,,Product,"人間が製造したもの（具象・抽象ともに含む）の名前。
+物品のみでなく、抽象的な製品（サービスなど）も含む。",A name of a thing or abstract concept (including services) produced by the intent of human beings.,,,,
+1,7,0,,プロダクト名,プロダクト名＿その他,,"サランラップ,  博多人形,  縄文土器,   上野焼,  京友禅,  オスカー像,   
+
+アルカリ蓄電池(特定の企業が製造する製品),   エボルタ(乾電池の商品名),   福島第一原発4号機, 
+
+東証株価指数,    ダウ平均株価,  ２２５先物,   ＴＯＰＩＸ先物,   ３００先物,  みずほスーパー定期, 厚生年金,   米国債
+
+ 国内総生産,   ＧＤＰ
+
+瑠璃（＝披露宴のコース）,   阪神大震災救援ダイヤル
+
+ 警察権,   環境権,   婦人参政権,  借地権,   テレビ放送権,   放送権
+
+ユニオン・ジャック,   英国旗
+","ラップフィルム(→ ＣＯＮＣＥＰＴ), 着せ替え人形(→ ＣＯＮＣＥＰＴ),   焼き物(→ ＣＯＮＣＥＰＴ),  和食器(→ ＣＯＮＣＥＰＴ),  洋食器(→ ＣＯＮＣＥＰＴ), 友禅(→ ＣＯＮＣＥＰＴ),   トロフィー(→ ＣＯＮＣＥＰＴ),  マックPC(→ ＣＯＮＣＥＰＴ),  ウィンテル(ウィンドウズとインテルを積んでいるPC → ＣＯＮＣＥＰＴ)
+
+アルカリ電池(→ ＣＯＮＣＥＰＴ),  原子力発電機(→ ＣＯＮＣＥＰＴ)
+
+株価指数(→ ＣＯＮＣＥＰＴ),  平均株価(→ ＣＯＮＣＥＰＴ),  先物取引(→ ＣＯＮＣＥＰＴ),  定期預金(→ ＣＯＮＣＥＰＴ),  年金(→ ＣＯＮＣＥＰＴ), 国債(→ ＣＯＮＣＥＰＴ),   赤字国債(→ ＣＯＮＣＥＰＴ),  戦時債券(→ ＣＯＮＣＥＰＴ)
+
+人権(→ ＣＯＮＣＥＰＴ),   拒否権(→ ＣＯＮＣＥＰＴ),   団結権 (→ ＣＯＮＣＥＰＴ) 
+
+新宿高島屋(→ 商業施設名)",,,Product_Other,プロダクト名のうち、その下位クラスに属さないもの。,A name of a product or service (1.7 Product) that does not belong to any of the other subordinate categories (1.7.1 - 1.7.24). ,,,,
+1,7,1,,,株名,,"ＮＴＴ株,  ナビスコ株,  タテホ株,  リクルートコスモス株",,株,,Stock,株の銘柄の名前。,A name of a stock or share.,,,,
+1,7,2,,,便名,,"ノースウエスト６９便,  ひかり４０号,  インドネシア航空８７２便","ラスベガス便(→ 路線名＿その他)
+ボーイング777(→ 飛行機名)
+クモハ１２３−４５６７(→ 識別番号)","定期旅客便,  旅客定期便",,Vehicle_Service_ID,"飛行機、電車、定期バスなどの便の名前。
+乗物自体についているID番号は含まない。","A service identification name or number of transportation means, such as a plane, train, or bus. 
+An ID number given to a vehicle itself (e.g. Boeing 777) is not included here, but in 1.7.3 ID_Number Category.",,,,
+1,7,3,,,識別番号,,"IE１２３４−５６７８,  クモハ１２３−４５６７",,"型式,  番号,  車両番号,  型番",,ID_Number,"番号や文字列で表される識別番号。
+例えば、免許証番号、パスポート番号、製造番号、背番号など。","An identification number. This can be a string of numerals, or other character string.
+Examples are a passport number, driver's license number, serial number or uniform number. ",,,,
+1,7,4,,,サービス名,,"Iモード,  ダイヤルQ2,  EZ FeliCa,  エクスプレス予約,  配達地域指定郵便物,  朝マック,  PayPay",,"サービス,  電子マネー,  サービスブランド",,Service,企業や行政が提供するサービスの名前。,A name of a service that is provided by a campany or government. ,,,,
+1,7,5,,,ブランド名,,"学研の図鑑,  回転寿しトリトン,  サクセス (花王),  PHP文庫
+
+講談社学術文庫, 高島屋,   GAP","スカイライン(→ 車名),  ハリー・ポッターシリーズ(→ 書籍名)
+
+ファイナルファンタジー(→ 電子ゲーム名)","ブランド,   レーベル,  銘柄,  スーパーマーケットチェーン,  チェーン店",,Brand,"ブランドの名前。
+チェーン店の名称や、シリーズ名などを含む。
+「スカイライン(→  車名)」のように、当カテゴリよりも属性の近いカテゴリがある場合は適切なカテゴリに分類する。","A name of a brand. 
+This includes a name of a chain store, or a title of a series. 
+In case there is another more apporpriate category for the entity, it shall be classified into there; for example, Skyline is not included here, but in 1.7.18.1 Car Category. ",,,,
+1,7,6,,,ソフトウェア名,,"エクセル, Adobe PageMaker, 楽々はがき
+JAVA,   LISP
+LINPACK",,"ソフトウェア,  プログラミング言語,  Linuxディストリビューション,  ウェブブラウザ,  ライブラリ,  オペレーティングシステム",,Software,"ソフトウェアの名前。
+例えば、アプリケーション、プログラミング言語、ライブラリなど。","A name of a computer software.
+Examples are an computer program, library, web application, or programming language.",,,,
+1,7,7,,,情報機器名,,"ThinkPad,  IPhone 6","日産・FJエンジン（→プロダクト名＿その他）, 写ルンです（→プロダクト名＿その他）,  吉宗 (パチスロ)（→プロダクト名＿その他）","端末,  携帯電話端末,  携帯電話,  ブランド,  端末製品,  スマートフォン",,Information_Appliance,"情報通信に使用する機械の名前。
+例えば、コンピュータや携帯用電話機など。
+掃除機や洗濯機などの家電は含まない。","A name of an appliance that is used for information telecommunications. 
+Examples are a computer and a mobile phone.
+This does not include home electrical appliances such as a cleaner or a washing machine.",,,,
+1,7,8,,,玩具名,,"リカちゃん人形,   ガンプラ,  トミカタウン
+
+レゴ,  PlayStation 2
+
+赤べこ","数独(→ ゲーム名＿その他)
+
+ファイナルファンタジー(→ 電子ゲーム名)","玩具,  ゲーム機,  ボードゲーム,  周辺機器,  人形,  プラモデル",,Toy,"玩具の名前。
+ゲームソフトなどの電子ゲームは、含まない。","A name of a toy.
+This does not include an electronic game such as a game software.",,,,
+1,7,9,,,楽器名,,"ストラディヴァリウス,  クラビノーバ","打楽器(→ ＣＯＮＣＥＰＴ),  ピアノ(→ ＣＯＮＣＥＰＴ),  ギター(→ ＣＯＮＣＥＰＴ)","ギター,  型番・商品,  ベース",,Musical_Instrument,楽器の名前。,A name of a musical instrument.,,,,
+1,7,10,,,衣類名,,"空挺迷彩服2型,  1953年の大阪タイガースのユニフォーム,  マックエアー,QGF-02ヘルメット,  オープンハート
+","ビジネススーツ(→ ＣＯＮＣＥＰＴ),   ジーンズ(→ ＣＯＮＣＥＰＴ),  蛇の目傘(→ ＣＯＮＣＥＰＴ),   衵扇(→ ＣＯＮＣＥＰＴ),   バッジ(→ ＣＯＮＣＥＰＴ),  和服(→ ＣＯＮＣＥＰＴ),  チャイナドレス(→ ＣＯＮＣＥＰＴ)
+
+ケリーバッグ（→プロダクト名＿その他）,   キタムラバッグ（→プロダクト名＿その他）
+
+山の手カジュアル（→文化名）","ヘルメット,  ユニフォーム,  衣服",,Clothing,"人が身につけるものの名前。
+頭に被るものから足に履くものまでを含む。 ","A name of clothing, what can be worn on the body. 
+This includes clothes, shoes, or a hat. ",,,,
+1,7,11,,,医薬品名,,"経口血糖降下薬,  アセタゾラミド,  男性ホルモン剤,  サルファ剤,  プロベネシド
+大正漢方胃腸薬,   アスピリン,   抗生物質,   抗ウイルス剤・ソリブジン,   カルブルック,   バファリン,   正露丸
+
+画像診断用造影剤,   かぜ薬,   麻酔薬,   痛みどめ
+
+モルヒネ（医療目的の場合）
+
+ペニシリン（化合物名に加え医薬品名に分類）, イブプロフェン（化合物名に加え医薬品名に分類）
+
+グロンサン（医薬部外品の場合）","栄養剤(→ ＣＯＮＣＥＰＴ),   薬草(→ ＣＯＮＣＥＰＴ),   生薬(→ ＣＯＮＣＥＰＴ),   錠剤(→ ＣＯＮＣＥＰＴ)
+
+コカイン（医療目的出ない場合→プロダクト名＿その他）,   モルヒネ（医療目的でない場合→プロダクト名＿その他）","医薬品,  漢方方剤,  漢方薬,  ワクチン,  薬物",,Drug,"医療目的で人間に投与する医薬品の名前。
+製造・開発元が存在する医薬品、医薬部外品。
+医療目的の化合物を含む。
+
+殺虫剤や医療目的以外の麻薬等の薬品は含まない。","A name of a medication, which is a drug used to diagnose, cure, treat or prevent human disease. 
+Drugs with other purposes (such as a pesticide or narcotic) are not included here, but in 1.7.0 Product_Other Category.",,,,
+1,7,12,,,キャラクター名,,"ミッキ−マウス,   ドラえもん,   ピンク・パンサー,   ピーター・ラビット,      シンデレラ,      ポパイ,      孫悟空,   ピノキオ,  シンデレラ,  黄金バット,  チップとデール
+
+キューピー,   因幡の白兎","つちのこ(→ 空想生物),   鬼(→ 空想生物名),   ユニコーン(→ 空想生物名),   海坊主(→ 空想生物名),   狼男(→ 空想生物名),
+
+ピカチュウ(→  キャラクター名)","人物,  キャラクター,  登場人物,  女性,  主人公,  ヒーロー,  モンスター,  怪獣",,Character,"創作上のキャラクターの名前。物語の登場人物を含む。
+動物の種類を表すことばのうち、「狼男」のように複数の作品に登場するものは「空想生物名」、「ピカチュウ」のように固有の作品でのみ登場するものは「キャラクター名」とする。","A name of a fictional character. This includes the characters of a story. 
+A name of a fictional animal that appears in more than one work, like ""werewolf"" is not included here but in 1.10.4.0 Living_Thing_Other Category. Other fictional animal that only appears in a specific work, like ""Pikachu"", is included.",,,,
+1,7,13,,,作品名,,,,,,Art,芸術作品の名前。,A name of a work of art.,,,,
+1,7,13,0,,作品名,作品名＿その他,"ミロのヴィーナス,  聖徳太子絵伝,  聖観音菩薩像,  ロゼッタストーン","  
+
+ギリシャ美術(→文化名)","記念碑,  太刀,  磨崖仏,  石碑,  彫刻,  像",,Art_Other,"芸術作品名のうち、その下位クラスに属さないもの。
+例えば、芸術、彫刻、絵巻物など。","A name of a work of art (1.7.13 Art) that does not belong to any of the other subordinate categories (1.7.13.1 - 1.7.13.6). 
+Examples are a name of a sculpture or a picture scroll.",,,,
+1,7,13,1,,,絵画名,"ゲルニカ,  モナ・リザ,  冨嶽三十六景,  イーゼンハイム祭壇画,  彦根屏風
+  
+すいれん,   ひまわり,   ゲルニカ,   ２５A,   アロハ,   麗子像,   星降る夜
+
+メゾナイトの絵画（連作）","水彩画(→ＣＯＮＣＥＰＴ),   印象派絵画(→ＣＯＮＣＥＰＴ)","絵画,  油絵,  油彩画,  肖像画,  連作  イコン",,Painting,絵画の名前。,A name of a painting or drawing. ,,,,
+1,7,13,2,,,番組名,"紅白歌合戦,  街頭録音
+ニュースステーション,   紅白歌合戦,   朝のバロック,   サザエさん,   いい旅・夢気分,   きょうの出来事
+
+それいけ！アンパンマン,   NHKのど自慢,   赤い夕日,   夫婦善哉,   ラジオ体操,   朝の連続テレビ小説
+
+水曜ロードショー,   火曜サスペンス劇場
+
+ジャにのちゃんねる(YouTubeチャンネル),  HikakinTV(YouTubeチャンネル)","  
+
+テレビ小説(→ ＣＯＮＣＥＰＴ)
+
+フジテレビ（→企業名）
+
+NHKラジオ第一（→チャンネル名）","テレビドラマ,  ラジオ番組, バラエティ番組,  テレビアニメ,  番組",,Broadcast_Program,"テレビ、ラジオ、インターネット上などの放送番組の名前。
+番組内のコーナーを含む。","A name of a broadcast media program, such as a Television show or a radio program. 
+This includes a certain segment of these programs.",,,,
+1,7,13,3,,,映画名,"七人の侍,  モダン・タイムス,  ゴジラ,
+マトリックス,   風と共に去りぬ,   タイタニック,   E.T.,   ハリーポッター,   男はつらいよ・拝啓車寅次郎様,   ゴッドファーザー
+
+十戒,   クレオパトラ,   ターミネーター,   リアリティ・バイツ,   第三の男,   運動靴と赤い金魚
+","  
+
+アクション・ムービー(→ ＣＯＮＣＥＰＴ),   ホラー映画(→ ＣＯＮＣＥＰＴ)
+
+松竹（→ 企業名）
+
+ハイスクール・ミュージカル(テレビ映画 → 映像作品名)","映画,  日本映画, コメディ映画,  小説, 韓国映画 ",,Movie,"映画の名前。
+劇場公開したもののみ。テレビ映画は含まない。","A name of a movie that is released in movie theaters.
+This does not include a television film.",,,,
+1,7,13,4,,,公演名,"おふくろ,  隅田川続俤,  通小町,  明日の幸福,  鰍沢
+
+キャッツ,   オペラ座の怪人,   砧,   椿姫,   葵上,   義経千本桜,   トゥーランドット,   レント,   ハムレット,   カルメン
+
+ドン・ジョヴァンニ,   人形の家,   モンナ・ヴァンナ,   サロメ,   復活,   海の夫人,   伊勢神楽,   大喜利","京劇(→ ＣＯＮＣＥＰＴ),   コンサート(→ ＣＯＮＣＥＰＴ)","演目,  ミュージカル,  舞台,  戯曲,  オペラ,  音楽祭,  バレエ,  コンサート,  演劇,  ライブ",,Show,"舞台で公演されるものの名前。
+例えば、歌舞伎、ミュージカル、オペラ、演劇など。","A name of a show that is performed on stage.
+Examples are a musical, opera, play, or ballet.",,,,
+1,7,13,5,,,音楽名,"動物の謝肉祭,  おけさ節,  魔弾の射手,  ルスランとリュドミラ,  木更津甚句
+
+君が代,   ドレミの歌,   運命,   明日に架ける橋,   第九,   めぐり逢い,   サムシング・ゼアー
+
+カチューシャかわいや,   りんごの唄
+
+究極のベスト! 浅香唯,   筋肉少女帯 ナゴム全曲","  
+
+交響曲(→ ＣＯＮＣＥＰＴ),   歌謡曲(→ ＣＯＮＣＥＰＴ),   ロック(→ ＣＯＮＣＥＰＴ),   R&B(→ ＣＯＮＣＥＰＴ),   バロック音楽(→ ＣＯＮＣＥＰＴ)","シングル,  アルバム,  楽曲,  交響曲,  歌",,Music,"音楽の名前。
+例えば、歌、楽曲などのタイトルなど。
+アルバムタイトルなどを含む。","A name of a music or song. 
+This includes an album title of an artist.",,,,
+1,7,13,6,,,映像作品名,"ああっ女神さまっ, 工藤静香 I'm not Concert Tour 1998, 真夏の大感謝祭 LIVE",,"映像,  ライブビデオ,  OVA,  DVD,  漫画,  メディアミックス,  PV集",,Video_Work,"映像作品の名前。
+例えば、OVA、ビデオクリップ、PV、CMなど。
+ディスク等のかたちで発売されたコンサートツアーを含む。
+ドラマCDを含む。","A name of a video work.
+Examples are an onlie video advertisement, a video clip, a promotion video, a commercial, etc. 
+This includes a concert tour disk, or a voice dramatization CD.",,,,
+1,7,14,,,出版物名,,,,,,Printing,"紙に書かれているものの名前。
+実際に出版されていないものを含む。","A name of a printing. 
+This includes those not published.",,,,
+1,7,14,0,,出版物名,出版物名＿その他,"京都大学入学案内書, ポケモンカレンダー,   共産党宣言,   アマルナ文書,   江田船山古墳出土大刀銘,   メルゼブルグの呪文
+
+オランダ風説書,   五日市憲法草案,   天声人語,   みんなの広場,   私見直言,   全作品購入契約書
+
+希望新聞,   首相の日々,   ビジネス情報,   国防白書","ペンギン・ブックス(→　ブランド名),   角川文庫(→　ブランド名),   岩波新書(→　ブランド名),   社説(→　ＣＯＮＣＥＰＴ)","文書,  報告書,  読者参加企画,  写真,  手紙,  地図,  石碑,  コラム",,Printing_Other,"出版物名のうち、その下位クラスに属さないもの。
+例えば、カレンダーやパンフレット、宣言文など。","A name of a printing (1.7.14 Printing) that does not belong to any of the other subordinate categories (1.7.14.1 - 1.7.14.3). 
+Examples are a calendar, booklet, brochure, or declaration. ",,,,
+1,7,14,1,,,新聞名,"信濃毎日新聞,  ジャパンタイムズ,  官板バタヒヤ新聞,  東亜日報,  デーリー・ミラー
+朝日新聞,   NYタイムズ,   シカゴ・トリビューン,   河北新報,   人民日報,   萬朝報,   赤旗,   ルモンド紙
+
+毎日新聞,   モスコフスキー・コムソモーレツ,   リドベ・ノビニ,   北京青年報,   ワシントン・タイムズ",天声人語（新聞のいちコーナー→出版物名＿その他）,"新聞,  日刊紙,  ニュースサイト, 機関紙",,Newspaper,新聞の名前。,A name of a newspaper.,,,,
+1,7,14,2,,,雑誌名,"主婦の友,  四季,  ナショナル・ジオグラフィック,  馬酔木,  フォーリン・アフェアーズ
+
+少年ジャンプ,   週刊新潮,   ビジネス・ウイーク誌,   エコノミスト,   三浦古文化,   ヴォーグ,   言語研究（学会誌）",ルモンド紙(→ 新聞名),"雑誌,  月刊誌,  フリーペーパー,  機関紙,  ニューズレター",,Magazine,"定期刊行の出版物の名前。
+新聞は含まない。",A name of a periodical publication except a newspaper.,,,,
+1,7,14,3,,,書物名,"アンタル物語,  蔭凉軒日録,  食道楽,  長ぐつ下のピッピ,  立花大全
+
+坊ちゃん,   若草物語,   海上の道,   チーズはどこへ消えた,   源氏物語,   ノンちゃん雲にのる,   日本の舞踊,   雪国,   朝雲,   檸檬,   蜘蛛の糸,   羅生門,   一寸法師,   ミノス伝説,   ギリシャ神話,   スガモプリズン事典,   二十億光年の孤独,   道程
+
+ナニワ金融道（漫画）,   聖書,   旧約聖書,   旧約「詩篇」,   バビロン捕囚の詩,   アンカー英和辞典
+
+カザフ語辞典（一種類しか存在しない場合）
+
+「平成三十年」（新聞の中での連載小説のタイトル）",英和辞典(→ ＣＯＮＣＥＰＴ),"漫画,  小説,  ライトノベル,  4コマ漫画,  短編小説,  著作,  書籍",,Book,"書物や文学（口承文学、神話、伝説などを含む言葉で表現されたもの）の名前。
+文字情報の有無にかかわらず発行部数が確認できるような書物を含む。
+例えば、文学、書籍、漫画、辞書、白書、画集など。","A name of a written or verbal work of any form. 
+This includes a book the circulation of which can be clarified, irrespective of the presense or absense of literal information. 
+Examples are a literature, comics, dictionary, whitepaper, artbook, etc.",,,,
+1,7,15,,,ゲーム名,,,,,,Game,ゲームの名前。,A name of a game.,,,,
+1,7,15,0,,ゲーム名,ゲーム名＿その他,"人生ゲーム, 小倉百人一首","おはじき(→ ＣＯＮＣＥＰＴ),   こま(→ ＣＯＮＣＥＰＴ),   すごろく(→ ＣＯＮＣＥＰＴ),   福笑い(→ ＣＯＮＣＥＰＴ),   ジグソー・パズル(→ ＣＯＮＣＥＰＴ)   ","ゲーム,  盤上遊戯,  ボードゲーム, パズル, カードゲーム",,Game_Other,"ゲーム名のうち、その下位クラスに属さないもの。
+デジタルではないゲームの名前を含む。
+例えば、ボードゲームなど。","A name of a game (1.7.15 Game) that does not belong to the other subordinate category (1.7.15.1 Digital_Game). 
+This includes a nondigital game. 
+A board game is an example of this category.",,,,
+1,7,15,1,,,電子ゲーム名,"実況パワフルプロ野球NEXT, ポケットモンスター ハートゴールド・ソウルシルバー, ファイナルファンタジーIX",,"ゲーム,  ゲームソフト,  アーケードゲーム,  ",,Digital_Game,デジタルのゲームの名前。,A name of a digital game such as a video game.,,,,
+1,7,16,,,食べ物名,,,,,,Food,食べ物、飲み物の名前。,"A name of a food or drink, which is any substance intended for human consumption. ",,,,
+1,7,16,0,,食べ物名,食べ物名＿その他,"カップヌードル,   ポカリスエット,   コカコーラ, キスミント,   頑丈元気,   カルピス発酵乳,   大豆オリゴ糖
+
+米,   豚肉,   氷,   リンゴ,   黄身, 水, 炭酸水,  山形牛(食材)","  
+
+食料(→ ＣＯＮＣＥＰＴ),   野菜(→ ＣＯＮＣＥＰＴ),   肉(→ ＣＯＮＣＥＰＴ),   魚(→ ＣＯＮＣＥＰＴ),   酒(→ ＣＯＮＣＥＰＴ),   中国野菜(→ ＣＯＮＣＥＰＴ),   加工食品(→ ＣＯＮＣＥＰＴ),   炭酸飲料(→ ＣＯＮＣＥＰＴ),
+
+パスタ類(類が付いている場合は食べ物名に入れない→ ＣＯＮＣＥＰＴ)","ブランド,   品種,  銘柄,  商品,  植物,  飲料,  果実",1,Food_Other,"食べ物名のうち、その下位クラスに属さないもの。
+料理に使う原材料や商品名の名前を含む。
+例えば、「手作りの○○」、「○○のレシピ」という言い方が法律的にできない、登録商標されている飲食物など。
+
+植物、動物などは原則として生物以下に分類。","A name of a food (1.7.16 Food) that does not belong to the other subordinate category (1.7.16.1 Dish). 
+This includes a name of ingredients used for cooking, and a brand name of food products. 
+The entity in this category includes the word or phrase that cannot fill the following phrases in the sight of the law: ""homemade __"" and ""__ recipe"", including a food for which trade mark is registered. 
+Plants and aniamls are basically included in 1.9.4 Living_Thing Category or its subordinate categories. . ",,,,
+1,7,16,1,,,料理名,"赤飯,  粥,  桶茶
+
+甘納豆,   安倍川餅,   石焼きいも,   カレー粉,   パン,   ビール,   日本酒,   越中和漢やくぜん,   かまぼこ,   だてまき
+
+蒸鶏の中国風サラダ,   ラザニア, 肉じゃが,醤油","ギリシャ料理(→ ＣＯＮＣＥＰＴ),   弁当(→ ＣＯＮＣＥＰＴ),   お菓子(→ ＣＯＮＣＥＰＴ), おせち料理(→ ＣＯＮＣＥＰＴ),   五代王朝料理(→ ＣＯＮＣＥＰＴ),   懐石料理(→ ＣＯＮＣＥＰＴ), 中華料理(→ ＣＯＮＣＥＰＴ), 鯛料理(→ ＣＯＮＣＥＰＴ),   どんぶり(→ ＣＯＮＣＥＰＴ),   どんぶりもの(→ ＣＯＮＣＥＰＴ)
+
+加工食品(→ ＣＯＮＣＥＰＴ),   炭酸飲料(→ ＣＯＮＣＥＰＴ)
+
+パスタ類（類が付いている場合は食べ物に入れない → ＣＯＮＣＥＰＴ）","料理,  カクテル，菓子,  食品,  
+ワイン,  チーズ,  パン",1,Dish,料理の名前。「手作りの○○」「○○のレシピ」という語句が成立するもの。,"A name of a dish. 
+The entity in this category is the word or phrase that can fill the following phrases: ""homemade __"" and ""__ recipe"".",,,,
+1,7,17,,,武器名,,,,,,Weapon,武器、兵器などの名前。 ,"A name of a weapon, arm or armament.",,,,
+1,7,17,0,,武器名,武器名＿その他,"
+サリンガス , VGガス
+フェアバーン・サイクス戦闘ナイフ
+テポドン, ブルーダニューブ(イギリスの核爆弾の名前)
+トマホーク (ミサイル), DM51手榴弾
+ピカティニー・アーセナル爆薬
+三十年式実包(弾丸)","村正(日本刀の名前 → 芸術作品名＿その他)   
+日本刀(→ ＣＯＮＣＥＰＴ),  毒ガス(→ ＣＯＮＣＥＰＴ),   拳銃(→ ＣＯＮＣＥＰＴ)
+武器(→ ＣＯＮＣＥＰＴ),   新兵器(→ ＣＯＮＣＥＰＴ),   近代武器(→ ＣＯＮＣＥＰＴ),   兵器(→ ＣＯＮＣＥＰＴ)
+中弾道ミサイル(→ ＣＯＮＣＥＰＴ), 核爆弾(→ ＣＯＮＣＥＰＴ)
+大量破壊兵器(→ ＣＯＮＣＥＰＴ), ","兵器,  核弾頭,  爆弾,  武器,  剣,  ミサイル,  手榴弾",,Weapon_Other,武器名のうち、その下位クラスに属さないもの。,A name of a weapon (1.7.17 Weapon) that does not belong to the other subordinate category (1.7.17.1 Fire_Arms).,,,,
+1,7,17,1,,,火器名,"ワルサーＰ３８, ウェブリー・リボルバー
+SMAW ロケットランチャー
+Mk 22 3インチ砲, 37mm軽迫撃砲
+アベンジャーシステム
+ゴールキーパー (火器)",T-13(自走砲）( → 戦車名),"拳銃,  機関銃,  ライフル,  迫撃砲,  榴弾砲,  カノン砲",,Firearms,小銃、ピストルなどの銃砲類、砲弾、ロケット弾など。,"A name of a fire arm such as a rifle, a pistol, a shell and a rocket.",,,,
+1,7,18,,,乗り物名,,,,,,Vehicle,移動するための乗り物の名前。,A name of a vehicle. ,,,,
+1,7,18,0,,乗り物名,乗り物名＿その他,"BMX, ストライダー, コネストーガ幌馬車","  
+
+駅馬車(→ ＣＯＮＣＥＰＴ),    円太郎馬車(ＣＯＮＣＥＰＴ)","乗り物,  自転車,  雪上車,  水上オートバイ",,Vehicle_Other,"乗り物名のうち、その下位クラスに属さないもの。
+例えば、馬車、自転車など。","A name of a vehicle (1.7.18 Vehicle) that does not belong to any of the other subordinate categories (1.7.18.1 - 1.7.18.8). 
+Examples are a name of a bicycle and a carriage.",,,,
+1,7,18,1,,,車名,"サニー,   カローラ,   プリマス・フューリI,   アベニール
+
+オデッセイ,   インテグラ   シボレー・コーベット,   フォード・サンダーバード, 
+カローラセダン
+
+ハーレーダビッドソン,  ウイングカスタム,  Wave125i","  
+戦車(→ ＣＯＮＣＥＰＴ),   ダンプカー(→ ＣＯＮＣＥＰＴ),   レクリエーショナル・ビークル(→ ＣＯＮＣＥＰＴ),   高速バス(→ ＣＯＮＣＥＰＴ),   グレイハウンド(→ ＣＯＮＣＥＰＴ),   消防車(→ ＣＯＮＣＥＰＴ),   献血車(→ ＣＯＮＣＥＰＴ)
+
+オープンカー(→ ＣＯＮＣＥＰＴ),   カブリオレ(→ ＣＯＮＣＥＰＴ),   スパイダー(→ ＣＯＮＣＥＰＴ),   コンバーティブル(→ ＣＯＮＣＥＰＴ)
+
+白バイ(→ ＣＯＮＣＥＰＴ) ","フォーミュラカー,  自動車,  乗用車,  オートバイ,  スポーツカー,  レーシングカー,  車種",,Car,"自動車の名前。
+自動二輪車を含む。",A name of a car or motorcycle.,,,,
+1,7,18,2,,,列車名,"ロコモーション号,  弁慶号,  ペンドリーノ,  ＳＥ車
+
+ひかり,   ５００系のぞみ,   スーパービュー踊り子,   特急しおかぜ号,   新幹線,   オリエンタル急行,   TGV
+
+トワイライトエクスプレス","登山列車(→ ＣＯＮＣＥＰＴ),   客車(→ ＣＯＮＣＥＰＴ),   寝台車(→ ＣＯＮＣＥＰＴ),   急行列車(→ ＣＯＮＣＥＰＴ),   グリーン車(→ ＣＯＮＣＥＰＴ),   市街電車(→ ＣＯＮＣＥＰＴ),   修学旅行専用電車(→ ＣＯＮＣＥＰＴ),   路面電車(→ ＣＯＮＣＥＰＴ)
+
+クモハ４２−００１（→識別番号）","電車,  タンク車,  電車車両,  機関車,  軌道車,  列車",,Train,電車、列車、地下鉄の名前。,A name of a train or subway.,,,,
+1,7,18,3,,,飛行機名,"フライヤー号,  スピリット・オブ・セントルイス号,  ＦＳＸ
+ボーイング７４７,   コンコルド,   YSX 
+Ｂ７４７ジャンボ機","艦上機(→ ＣＯＮＣＥＰＴ),   空中給油機(→ ＣＯＮＣＥＰＴ),   軍用機(→ ＣＯＮＣＥＰＴ),   攻撃機(→ ＣＯＮＣＥＰＴ),   ジャンボ機(→ ＣＯＮＣＥＰＴ),   水上機(→ ＣＯＮＣＥＰＴ),   旅客機(→ ＣＯＮＣＥＰＴ),   戦闘機(→ ＣＯＮＣＥＰＴ)","旅客機,  実験機,  飛行機,  航空機,  ジェット機,  ヘリコプター",,Aircraft,飛行機の名前。,A name of an aircraft.,,,,
+1,7,18,4,,,船名,"クイーン・エリザベス号,  日本丸,  ノルマンディー号,  高瀬舟
+つがる,   青函連絡船","  
+葦舟(→ ＣＯＮＣＥＰＴ),   安宅船(→ ＣＯＮＣＥＰＴ),   アルゴ船(→ ＣＯＮＣＥＰＴ),   筏(→ ＣＯＮＣＥＰＴ),   いさば舟(→ ＣＯＮＣＥＰＴ),   一銭蒸気(→ ＣＯＮＣＥＰＴ),   海底ケーブル敷設船(→ ＣＯＮＣＥＰＴ),   貨客船(→ ＣＯＮＣＥＰＴ),   カヌー(→ ＣＯＮＣＥＰＴ),   カーフェリー(→ ＣＯＮＣＥＰＴ)
+
+貨物船(→ ＣＯＮＣＥＰＴ),   亀甲船(→ ＣＯＮＣＥＰＴ),   客船(→ ＣＯＮＣＥＰＴ),   刳舟(→ ＣＯＮＣＥＰＴ),   商船(→ ＣＯＮＣＥＰＴ)","フェリー,  客船,  貨客船,  貨物船,  船,  船舶",,Ship,船の名前。,A name of a ship.,,,,
+1,7,18,5,,,宇宙船名,"スペースシャトル,  スペースシャトル・エンデヴァ−,   ひまわり４０号,   H-IIAロケット,   スターシャイン衛星,  ウォストーク,  サリュート,  スプートニク
+
+宇宙ステーション・ミール","  
+情報収集衛星(→ ＣＯＮＣＥＰＴ),   低軌道通信衛星(→ ＣＯＮＣＥＰＴ),   宇宙ロケット(→ ＣＯＮＣＥＰＴ)","人工衛星,  プログレス補給船,  ロケット,  宇宙船,  探査機",,Spaceship,"宇宙船の名前。
+宇宙ステーション、人工衛星を含む。","A name of a space vehicle.
+This includes a spaceship, space station, or satellite.",,,,
+1,7,18,6,,,軍用車両名,"
+90式戦車, ヤークトティーガー
+
+I号対戦車自走砲 フクス装甲兵員輸送車",,"装甲車,  戦車,  ",,Miliary_Vehicle,"軍事用車両の名前。
+戦車、戦闘車、装甲車、軍用車両、自走砲などを含む。","A name of a military vehicle.
+This includes a tank, combat vehicle, armored truck, or self-propelled artillery.",,,,
+1,7,18,7,,,軍用機名,"エノラ・ゲイ, 零式輸送機, 十一試水上中間練習機
+
+V-22 (航空機), MiG-27 (航空機), 紫電改
+
+エアフォースワン
+",,"戦闘機,  爆撃機,  練習機,  航空機,  偵察機,  飛行艇,  輸送機,  ヘリコプター",,Military_Aircraft,軍事用航空機の名前。武力、防衛システムなどが付随しているものなど。,A name of a military aircraft with force of arms or defensive system is equipped. ,,,,
+1,7,18,8,,,艦艇名,"ペレスヴェート級戦艦, 武蔵 (戦艦), ヴァンガード級原子力潜水艦
+G18 (空母), 伊号第三百六十八潜水艦","原子力打撃巡洋艦(→ ＣＯＮＣＥＰＴ),  戦艦(→ ＣＯＮＣＥＰＴ),   駆潜艇(→ ＣＯＮＣＥＰＴ),  ","艦艇,  潜水艦,  駆逐艦,  戦艦,  巡洋艦,  掃海艇,  空母,  航空母艦,  護衛艦,  フリーゲート",,Military_Ship,軍事用の船舶の名前。,A name of a ship for military use. ,,,,
+1,7,19,,,主義方式名,,,,,,Doctrine_Method,その成り立ちにおいて、主義・思想・方式が関与するものの名前。,"A name of a doctrine or method, which is formed based on certain beliefs, thoughts or arts.",,,,
+1,7,19,0,,主義方式名,主義方式名＿その他,"民主主義,   貨幣主義,   キリスト教社会主義,   古典主義,   アジア的専制主義,   印象主義,   非暴力主義,   孤立主義
+
+日本歓迎論,   中華思想,   モダニズム,   リベラル
+
+護送船団方式,   アンチセンス治療法,   グード図法,   トップダウン方式,   トーナメント方式,   先組み工法,   暗示療法
+
+育児休暇制,   委員会制度,   国郡里制,   小選挙区制,   二院制,   中選挙区制度,   道州制,   ＤＨ制,   連座制,   全寮制
+
+アパルトヘイト制度,   消費税制度,   小作制度
+
+西尾体制,　非共産党オール与党体制,　五五年体制
+
+毛沢東路線,   環境リベラル路線
+
+アラビア文字,   ユダヤ暦
+
+足入れ婚,   一夫多妻婚,   アーク溶接,   参勤交代,   士農工商,   HLA型検査,   MLC,   DNAタイピング,   ３バック
+
+主権在民,   一地一作人,   アロマテラピー,   胃液検査,   カイロプラクティック,   クレーデ点眼,   時系列分析,   圧縮成形
+
+Ｘ線分析,   Ｘ線検査,   三権分立,   アクション・リサーチ,   おとり捜査,   財産税,   遺伝子治療,   円借款,   公的介護保険
+
+鍼,   夫婦別姓,   霊感商法,   体外受精
+
+コペルニクス的転回
+
+（以下３つはしめなわの結び方）横止め,   リボン,   藤下がり
+
+ISBN
+
+トリプルアクセル, バント, 背負い投げ","不要論(→ ＣＯＮＣＥＰＴ),   脅威論(→ ＣＯＮＣＥＰＴ),   主戦論(→ ＣＯＮＣＥＰＴ),   和平論(→ ＣＯＮＣＥＰＴ),   遷都論(→ ＣＯＮＣＥＰＴ),   独立論(→ ＣＯＮＣＥＰＴ),   医療制度(→ ＣＯＮＣＥＰＴ),   税制(→ ＣＯＮＣＥＰＴ),   乗員保護システム(→ ＣＯＮＣＥＰＴ),   ワンマン体制(→ ＣＯＮＣＥＰＴ)
+
+応急手当(→ ＣＯＮＣＥＰＴ),   検眼(→ ＣＯＮＣＥＰＴ),   拷問(→ ＣＯＮＣＥＰＴ),   手術(→ ＣＯＮＣＥＰＴ),   心移植(→ ＣＯＮＣＥＰＴ),   注射(→ ＣＯＮＣＥＰＴ),   麻酔(→ ＣＯＮＣＥＰＴ),   閏年(→ ＣＯＮＣＥＰＴ),   干支(→ ＣＯＮＣＥＰＴ),   ゴールド免許証(→ プロダクト名＿その他),   車検(→ ＣＯＮＣＥＰＴ),   三頭政治(三人による政治体制→ ＣＯＮＣＥＰＴ)
+
+自動車ナンバー(→ ＣＯＮＣＥＰＴ),   国債(→ ＣＯＮＣＥＰＴ),   四年制大学(→ ＣＯＮＣＥＰＴ)
+
+クリントン政策（→政策計画名）,   アパルトヘイト（→政策計画名）,   出版の自由(→ プロダクト名＿その他),   近衛声明(→ 出版物名＿その他)
+
+ジャンプ（→ ＣＯＮＣＥＰＴ）, ホームラン（→ 記録なのでＣＯＮＣＥＰＴ）","方法,  手法
+文字,  技術,  戦法,  化学反応,  アルゴリズム,  技",1,Doctrine_Method_Other,"主義方式名のうち、その下位クラスに属さないもの。
+",A name of a doctrine or method (1.7.19 Doctrine_Method) that does not belong to any of the other subordinate categories (1.7.19.1 - 1.7.19.17). ,,,,
+1,7,19,1,,,罪名,"住居侵入罪,  収賄罪,  殺人罪,  不敬罪
+拉致,   無罪,   詐欺,   強盗殺人,   証券取引法違反,   殺人未遂罪,   保護責任者遺棄致死,   殺人未遂容疑
+
+強盗未遂容疑,   誘拐容疑,   背任,   密輸容疑,   事故調書ねつ造容疑,   胎児殺し,   無差別殺人,   駐車違反,   ハイジャック,  マネー・ロンダリング, 密航","  
+
+ひき逃げ(→ ＣＯＮＣＥＰＴ),   密通(→ ＣＯＮＣＥＰＴ),   殺害(→ ＣＯＮＣＥＰＴ),   通り魔(→ ＣＯＮＣＥＰＴ)
+
+ホワイトカラー犯罪(→ ＣＯＮＣＥＰＴ)","犯罪,  犯罪類型,  罪",,Offense,違法・不法行為である罪や逮捕されるような容疑の名前。「〜罪」「〜（の）容疑」「〜の疑い」をつけて不自然ではない名詞句。,"A name of a crime or rap, which is an unlawful act punishable by a state or other authority. 
+The entity in this category should fill in the following phrases: ""the crime of __"" or ""suspicion of __"". ",,,,
+1,7,19,2,,,等級名,"４級,  八段,  トリプルA,  黒帯,  女子４８キロ級,  一軍","ジャンプ・ラージヒル（→競技名）,   女子50メートル背泳（→競技名）
+
+メジャーリーグ（→競技リーグ名）
+
+ベスト８（→順位表現）
+
+S&Pの格付け（→プロダクト名＿その他）、シングルAマイナス（→プロダクト名＿その他）,   罪一等（→プロダクト名＿その他）","階級,  クラス,  級",1,Class,"スポーツやその他の競技にいて、個人や団体に与えられる等級の名前。
+例えば、等級、階級、段、級など。","A name of a class, grade or rank given to a person, a group of people, or an organization, in a sport or other competition",,,,
+1,7,19,3,,,賞名,"ノーベル賞,  アカデミー賞,  国民栄誉賞,  ピュリッツァー賞,  フィールズ賞","  
+賜杯(→ 勲章名),   敢闘賞(→ ＣＯＮＣＥＰＴ),   褒章(→ ＣＯＮＣＥＰＴ)","賞,  部門,  文学賞,  映画賞",,Award,コンペティションの勝利者、もしくは、優れた功績に与えられる賞の名前。,"A name of an award, prize or medal that is given as a reward to the winner of a competition or in recognition of an outstanding achievement.",,,,
+1,7,19,4,,,勲章名,"文化勲章,  ガーター勲章,  レーニン勲章,  賜杯,  ブルーリボン",,勲章,,Decoration,国家・社会に対する功労者を表彰して国家から与えられる記章の名前。,A name of an order or state decoration that is awarded by a sovereign state to honor the recipient.,,,,
+1,7,19,5,,,貨幣名,"ソリドゥス金貨,  デナリウス貨,  王莽銭,  アッシニャ","金貨(→ ＣＯＮＣＥＰＴ),   銀貨(→ ＣＯＮＣＥＰＴ),   紙幣(→ ＣＯＮＣＥＰＴ)","硬貨,  通貨,  銀貨,  金貨,  銭貨,  貨幣,  紙幣",,Money_Form,"貨幣の名前。
+例えば、鋳貨・紙幣・銀行券などのお金、コインなど。","A name of a form of money, such as a bill, banknote, or coin.",,,,
+1,7,19,6,,,技術名,"SKYACTIV TECHNOLOGY,スーパーセレクト4WD,統合無人戦闘航空システムA-train (日立製作所),肺動脈カテーテル,被覆アーク溶接,スキップジャック (暗号)",,"技術,  方法,  治療法,  手法",,Technology,製品に対する技術の名前。,A name of a technology that is applied for a product. ,,,,
+1,7,19,7,,,規格名,"IEEE 802.10,ISO 1000,Bluetooth,DVD-R,MS ゴシック,HOゲージ,国際標準名称識別子,
+統一金融機関コード",,"コード,  標準,  プロトコル,  フォーマット",,Standard,製品に対する基準の名前。,A name of a standard that is applied for a product. ,,,,
+1,7,19,8,,,制度名,"ETC割引制度,確定申告,日本標準時,固定資産税,確定給付年金,外国為替資金特別会計",,"制度,  標準時,  権利,  文化財,  税金,  方法",,System,特定の機関などが定めた制度の名前。,A name of a system that is established by a specific institution. ,,,,
+1,7,19,9,,,試験名,"TOEFL,医師国家試験,情報セキュリティ初級認定試験,全国統一小学生テスト,大学入学資格検定,タイガース検定
+
+税理士(→ 資格試験名、地位職業名)",,"試験,  検定",,Examination,資格、検定、試験の名前。,A name of a qualification or an examination. ,,,,
+1,7,19,10,,,主義思想名,"ベトナム反戦運動,  沖縄復帰運動,  光州学生運動,   フランス革命
+
+ポスト構造主義,オートノミズム,新自由主義","反戦運動(→ ＣＯＮＣＥＰＴ),   学生運動(→ ＣＯＮＣＥＰＴ)","思想,  立場, 考え方,  主張",,Doctrine_Thought,共通の主義思想をもとに起こされる社会運動の名前。,A name of a social movement or activity that takes place based on a common doctrine or thought.,,,,
+1,7,19,11,,,文化名,"アシュール文化,  アンデス文明,  アメリカ美術, 
+メソポタミア文明,   桃山文化,   山の手カジュアル,   ルネッサンス,   漫画文化,   ギリシャ美術",,"文化,  建築様式",,Culture,文化、文明、美術の名前。,"A name of a culture, civilization, or art.",,,,
+1,7,19,12,,,宗教名,"イスラム教,  吉田神道,  天照皇大神宮教,  モルモン教,  シーア派
+仏教,   オウム真理教,   スンニ派,   創価学会,   安倍神道,   イスラム教,   カトリック,   天理教,   日本基督教団愛宕信仰
+
+稲荷信仰,   五家七宗,   禅,   エホバの証人,   カトリック教会,   「末日」信仰",,"団体,  一派,  宗教,  宗教法人,  教派,  宗派",,Religion,"宗教の名前。
+宗派、教団を含む。",A name of a religion or religious sect.,,,,
+1,7,19,13,,,学問名,"温泉化学,  言語美学,  材料力学,  農芸化学,  量子エレクトロニクス
+
+国際関係学,   内科,   コンピュータサイエンス,   物理学,   地政学,   化学,   免疫学,   音響光学
+
+英文学,   地震学,   数学,   建築学,   地球物理学,   生化学,   麻酔科,   公衆衛生学,   哲学,   アメリカ史
+
+地球科学,   統語論,   国際関係論,   陰陽道,   茶道,   華道,   加速器科学,   医術,   算術","科学(→ ＣＯＮＣＥＰＴ),   巨大科学(→ ＣＯＮＣＥＰＴ),   基礎科学(→ ＣＯＮＣＥＰＴ),   語学(→ ＣＯＮＣＥＰＴ)
+
+歴史学者（→地位職業名）","学問,  学科,  県級",1,Academic,"学問の名前。
+「～学」、学問、科目など。","A name of an academic field. 
+This includes an ology of a subejct. ",,,,
+1,7,19,14,,,理論名,"相対性理論,  進化論,  プレートテクトニクス理論",,"定理,  理論,  法則,  問題,  仮設, 説,  方法,  学説",,Theory,"学説、法則などの理論の名前。 
+理論、学説、原理、定理、命題など、その理論を提唱した人が想定できるもの。","A name of a theory or natural law. 
+This includes a theory, a principle, a theorem, and a proposition the advocate of which can be assumed. 
+",,,,
+1,7,19,15,,,流派名,"一羽流,  美濃派,  文法学派,  甲源一刀流,  小原流,  裏千家,  高砂部屋,  高砂一門",貴乃花部屋(→  競技団体名),"流派,  一派,  流儀,  系統",,Style,"武道・学問・技芸などの特有の手法・様式の名前。 
+例えば、流派、流儀、学派など。","A name of a school, style or method of a martial art, study or an art.",,,,
+1,7,19,16,,,競技名,"野球,   男子バレーボール,   スキー,   マラソン,   ジャンプ,   ラージヒル,   陸上競技,   プロゴルフ,   アメリカンフットポール
+
+女子二百メートルバタフライ,   スキー複合,   チームスプリント戦,   きつね狩り,   縄跳び
+
+はねつき,  競馬,   競輪,   競艇,   プロ野球,   ママさんバレー,   少年野球,   ジョギング,   ジャズダンス,   ヨガ","  
+
+男性コーラス部門(→ ＣＯＮＣＥＰＴ)
+
+百人一首(→ ゲーム名＿その他), オセロ(→ ゲーム名＿その他)
+
+ウィンタースポーツ(→ ＣＯＮＣＥＰＴ),   学生スポーツ(→ ＣＯＮＣＥＰＴ)
+
+大相撲（→競技会名）","競技,  スポーツ,  種目, 球技,  武術, ダンス,  武道",1,Sport,優劣をつけられるスポーツの名前。,A name of a sport in which the superiority of the player can be judged.,,,,
+1,7,19,17,,,政策計画名,"規制緩和推進五ヵ年計画,   超伝導超大型粒子加速器（SSC）建設計画,   第七次空港整備五ヵ年計画,   アポロ計画
+
+21世紀日本の構想,   情報スーパーハイウェー構想,   選挙管理内閣構想,  
+
+ニューディール政策,   クリントン政策,   人種隔離政策（アパルトヘイト）,   レーガン経済政策,   日本市場開放政策, ドーズ案
+
+非核政策,   経済構造調整政策（→具体的に１つのものを指すのであればOK。）
+
+銃器対策推進要綱,   フランスと中国の核実験の中止を求める決議案,   対クロアチア経済制裁,   対南革命戦略","対日政策(→ ＣＯＮＣＥＰＴ),   経済政策(ＣＯＮＣＥＰＴ),   中所得減税(→ ＣＯＮＣＥＰＴ)
+
+アパルトヘイト制度（→主義方式名＿その他）
+
+民法改正要綱思案（→規則名＿その他）","ミッション,  構想,  計画,  宇宙飛行,  プロジェクト,  政策",,Plan ,"実行前に決められた方針、方策の名前。
+例えば、計画、構想、案と 呼ばれるものや、政策等。
+法案、条例案は含まない（規則名へ）。
+税案は含まない（主義方式名＿その他へ）。","A name of a policy or plan, or a draft of it, which is determined before action. 
+A law or regulation, or its draft is not included here, but in 1.7.20 Rule Category. 
+A tax plan is also not included here, but in 1.7.19 Doctrine_Method_Other Category.",,,,
+1,7,20,,,規則名,,,,,,Rule,条約や法令、試案、規約などの規則の名前。,A name of a rule such as a treaty or statute.,,,,
+1,7,20,0,,規則名,規則名＿その他,"公示の原則,  戦後五十年国会決議,  民法改正要綱試案
+
+アルバニア決議,  松本試案,   マッカーサー草案","信教の自由(→プロダクト名＿その他),   州憲法(→ ＣＯＮＣＥＰＴ)","決議,  宣言,  基準,  法案",,Rule_Other,条約や法令以外などの取り決めの名前。法律、条約などの試案を含む。,"A name of a rule (1.7.20 Rule) that does not belong to any of the other subordinate categories (1.7.20.1 - 1.7.20.2). 
+This includes a draft of a treaty, law or statute.",,,,
+1,7,20,1,,,条約名,"国際人権規約,   薩土盟約,   モスクワ協定,   パヒキナサーリ条約,   ビョルケ密約,   日米地位協定一七条五項Ｃ,   南北基本合意書,   ロンドン覚書",,"条約,  協定,  合意,  議定書,  協約",,Treaty,"国家間もしくは、複数の組織の間で取り決められた合意の名前。
+条項を含む。","A name of a treaty, which is a formally concluded and ratified agreement between states or among multiple organizations. 
+This includes an article of a treaty.",,,,
+1,7,20,2,,,法令名,"家電リサイクル法,  御成敗式目,  労働基準法,  イスラエル破壊条項,  ２％条項,   放送法三十二条","信教の自由(→プロダクト名＿その他),   州憲法(→ ＣＯＮＣＥＰＴ)","法律,  法令,  条文,  勅令,  規定,  憲法,  省令, 法",,Law,"法律と命令の名前。 
+法律の条項も含む。","A name of a law, statute or order. 
+This category includes an article of a law.",,,,
+1,7,21,,,称号名,,,,,,Title,称号、地位、職業の名前。,"A name of a title, position, or occupation.",,,,
+1,7,21,0,,称号名,称号名＿その他,"さん,  様,  氏,  ちゃん,  君,  殿,  夫人","夫妻(→ ＣＯＮＣＥＰＴ),   兄弟(→ ＣＯＮＣＥＰＴ)","称号,  尊称",1,Title_Other,称号名のうち、その下位クラスに属さないもの。,A name of a title (1.7.21 Title) that does not belong to the other subordinate category (1.7.23.1 Position_Vocation).,,,,
+1,7,21,1,,,地位職業名,"内閣総理大臣,  奈良奉行,  大関
+
+容疑者,   被告
+
+三役,   皇后陛下,   東松山消防署員,   近畿大学文芸学部長,   民選大統領
+
+税理士(→地位職業名、資格試験名)
+
+無職,   パート,   アルバイト
+賞金王,   ５冠,   奪三振王,   ミスさっぽろ","担当者,   OB,   信者,   政治犯,   従業員,   残留孤児,   著者,   打者,   エース,   主力,   恩師,   被爆者,   臨時代理
+
+高校生（→学齢）,     専門担当官,   暴力団関係者,   乗組員,   従業員,   名医
+
+文豪,   外資系通信会社勤務,   洋服店経営,   警備会社勤務,   奨学生,   苦学生
+
+楽観主義者（→ ＣＯＮＣＥＰＴ）,  
+
+夫人（→称号名＿その他）","称号,  役職,  官職,  王座,  伯爵位,  長,  職名,  職業",1,Position_Vocation,階位や地位など人のステイタスを表すものや、 職業を表すものの名前。,"A name an occupation, or a position that indicates the status of a person.",,,,
+1,7,22,,,言語名,,,,,,Language,公用語、語族、方言の名前。,"A name of a language, language family, or dialect.",,,,
+1,7,22,0,,言語名,言語名＿その他,"印欧語族,  ウラル・アルタイ語族,  大阪弁,   極妻弁（造語）","標準語(→ ＣＯＮＣＥＰＴ),   幼児語(→ ＣＯＮＣＥＰＴ)","言語,  方言,  手話,  言葉, 祖語",,Language_Other,"言語名のうち、その下位クラスに属さないもの。
+方言など、公用語以外の言語、語族を含む。","A name of a language (1.7.22 Language) that does not belong to the other subordinate category (1.7.22.1 National_Language). 
+This includes a dialect or a language family.",,,,
+1,7,22,1,,,国語名,"英語,  満州語,  ハンガリー語,  スウェーデン語,  チャム語
+日本語,   ハングル,   独語,   英米語,   英語,   ラテン語","標準語(→ ＣＯＮＣＥＰＴ),   幼児語(→ ＣＯＮＣＥＰＴ)","言語, 公用語,  国語",,National_Language,公の場で使用されることが正式に認められている国語の名前。,A name of a national language.,,,,
+1,7,23,,,単位名,,,,,,Unit,長さ、質量、金額などを表す単位の名前。,"A name of a unit of measurement, which is a fixed standard quantity, length or weight that is used for measuring things.",,,,
+1,7,23,0,,単位名,単位名＿その他,"アンペア,  ニュートン,  ビット,  ロックウェル硬さ,  連
+リットル,   ｋｇ,   オーム,   ワット,   デシベル,   カラット,   ｃｍ,   枚,   ヘクトパスカル,   分","億単位(→ ＣＯＮＣＥＰＴ)
+3メートル(→ 長さ)","単位,  量",1,Unit_Other,単位名のうち、その下位クラスに属さないもの。,A name of a unit (1.7.23 Unit) that does not belong to the other subordinate category (1.7.23.1 Currency).,,,,
+1,7,23,1,,,通貨単位名,"円,   ドル,  ウォン,   フラン,   ユーロ,   ポンド,   クローネ,   ディナール,   元,   ウォン,   香港ドル","天正小判 (→貨幣名),   ソリドゥス金貨(→貨幣名),   ペニー(→貨幣名)
+
+100ドル（→金額表現）
+
+マイクロソフトポイント（→プロダクト名＿その他）","通貨,  通貨単位,  単位",1,Currency,"通貨の名前。
+「数字＋通貨単位」の場合は含まない（金額表現へ）。 コインや紙幣は含まない（貨幣名へ）。
+来店や購入金額に応じて特典が得られるようなポイントプログラムの名前は含まない（プロダクト名＿その他へ）。","A name of a currency unit. 
+The entity named along with a figure is not included here but in 3.1 Money Category. 
+A name of a form of money such as a coin or bill is also not included here, but in 1.7.19.5 Money_Form Category. 
+A service system such as a loyalty program in which benefits can be obtained according to the frequency of visiting store and purchasing products is not included here, but in 1.7.0 Product_Other Category.  ",,,,
+1,7,24,,,バーチャルアドレス名,,,,,,Virtual_Address,ユーザなどを特定する記号、数字、アルファベット等の並び。,"A character string (consists of characters such as numerals, marks, alphabets, etc.) that specify an user or something.",,,,
+1,7,24,0,,バーチャルアドレス名,バーチャルアドレス名＿その他,.jp. edu,,"国別コード,  ドメイン",,Virtual_Address_Other,"バーチャルアドレスのうち、その下位クラスに属さないもの。
+例えば、URLの一部など。","A virtual address (1.8 Virtual_Address) that does not belong to any of the other subordinate categories (1.7.24.1 - 1.7.24.4).
+A part of an URL is an example of this category.",,,,
+1,7,24,1,,,チャンネル名,"NHK教育テレビ, Gyao, Dlife, 東京FM","
+ジャにのちゃんねる(YouTubeチャンネル → 番組名),  HikakinTV(YouTubeチャンネル → 番組名)","基幹放送,  テレビ局,  ウェブサイト,  放送局,  チャンネル",,Channel,"ラジオやテレビなどのチャンネルの名前。
+インターネット上のチャンネル名を含む。
+ウェブサイトの名前を含む。","A channel of a broadcast media such as the television, radio or streaming television. 
+This includes a name of a website.",,,,
+1,7,24,2,,,電話番号,"１２３４−５６７８,   １１０番,   一一九番,   ０６・５４３・１２３４〜１２３５,   （２１２）１２３‐１２３４,   内線１２３",,電話番号,,Phone_Number,"電話番号。
+ＦＡＸなど別の目的に使われているものを含む。 ",A phone or fax number.,,,,
+1,7,24,3,,,電子メイル,ｓｅｋｉｎｅ＠ｌａｎｇｕａｇｅｃｒａｆｔ．ｃｏｍ,,,,Email,"電子メイルアドレス。
+ウェブサイトのアドレスはＵＲＬとする。",An email address. ,,,,
+1,7,24,4,,,ＵＲＬ,ｈｔｔｐ：／／ｗｗｗ．ｌａｎｇｕａｇｅｃｒａｆｔ．ｃｏｍ／,,サイト,,URL,インターネットのページアドレス、ＵＲＬ。 ,"A web address, or URL.",,,,
+1,8,,,イベント名,,,,,,,Event,イベントの名前。　出来事の名前。,A name of an event or matter.,,,,
+1,8,0,,イベント名,イベント名＿その他,,"ポケモンブーム,   第一次ベビーブーム,   アジア通貨危機,   仏教ホスピス活動,   北方領土問題,   農村問題
+
+東西統一,  冷戦,  鉄のカーテン","参院選(時期が特定されない→ ＣＯＮＣＥＰＴ),   総選挙(時期が特定されない→ ＣＯＮＣＥＰＴ),   中間選挙(時期が特定されない→ ＣＯＮＣＥＰＴ),   米大統領選挙(時期が特定されない→ ＣＯＮＣＥＰＴ),   山梨県知事選(時期が特定されない→ ＣＯＮＣＥＰＴ),   伊勢参り(→ ＣＯＮＣＥＰＴ),   総裁選出馬問題(時期が特定されない→ ＣＯＮＣＥＰＴ)","問題,  論争,  出来事,  プロジェクト",,Event_Other,"イベント名のうち、その下位クラスに属さないもの。
+例えば、戦争名、事故事件名以外の社会的出来事・現象など。","A name of an event (1.8 Event) that does not belong to any of the other subordinate categories (1.8.1 - 1.8.4).
+A social event and phenomenon other than war, accident or incident are examples of this category.",1,,,
+1,8,1,,,自然現象名,,"メイ・ストーム,   シベリア高気圧,   モンスーン,   偏西風,   千島海流,   黒潮,   メキシコ湾流,   エルニーニョ,   台風","雨(→ ＣＯＮＣＥＰＴ),   晴れ(→ ＣＯＮＣＥＰＴ)","海流,  現象,  風,  高気圧",1,Natural_Phenomenon,"風、海流などの自然現象の名前。
+時期と場所がある程度限定された自然現象として名づけられたもの。","A name of a natural phenomenon such as wind or ocean current, which occurs in a certain period and area.",,,,
+1,8,2,,,自然災害名,,,,,,Natural_Disaster,自然災害の名前。,A name of a natural disaster.,,,,
+1,8,2,0,,自然災害名,自然災害名＿その他,"雲仙普賢岳噴火災害,   寛永の飢饉",火山噴火(→ ＣＯＮＣＥＰＴ),"飢餓,  災害,  渇水,  大飢饉,  被害,  砂嵐",,Natural_Disaster_Other,"自然災害名のうち、その下位クラスに属さないもの。
+飢饉、噴火などを含む。","A name of a natural disaster (1.8.2 Natural_Disaster) that does not belong to any of the other subordinate categories (1.8.2.1 - 1.8.2.2). 
+Examples are famine, volcanic eruptions, etc.",,,,
+1,8,2,1,,,地震名,"アラスカ地震,   チリ地震,   長野県西部地震,   三河地震,   ルーマニア地震, 東日本大震災",,"地震,  地震活動,  災害",,Earthquake,地震によって起こされた自然災害の名前。,A name of a natural disater caused by an earthquake.,1,,,
+1,8,2,2,,,水害名,"室戸台風,   伊勢湾台風,   ジェーン台風,   諫早豪雨,   サイクロン・ナルギス,  平成9年台風第9号,  1887年黄河洪水",,"台風,  ハリケーン,  水害,  洪水,  集中豪雨,  災害",,Flood_Damage,"水によって起こされた自然災害の名前。
+例えば、台風、ハリケーン、洪水など。","A name of a natural disaster caused by water.
+Examples are typhoon, hurricane, or flood, etc.",1,,,
+1,8,3,,,催し物名,,,,,,Occasion,"人間が行う、祭、展覧会などの催し物の名前。
+定期的に開催されるイベントや、期間・内容などがあらかじめ決まっているようなイベントを含む。","A name of an occasion or event that people hold on a regular basis, or for a limited period of time, such as a festival, exhibition, etc. ",,,,
+1,8,3,0,,催し物名,催し物名＿その他,"春のブライダルフェア‘９５,   ノーベル賞授賞式, 隅田川花火大会, 全米桜祭り,
+
+原爆と共に生きる（講義）,  2018年平昌オリンピックの閉会式, 三田祭",学園祭(→ ＣＯＮＣＥＰＴ),"イベント,  花火大会,  祭,  スペシャルイベント,  祭典,  キャンペーン,  行事",,Occasion_Other,"催し物名（定期的に開催されるイベントや、期間・内容などがあらかじめ決まっているようなイベント）のうち、その下位クラスに属さないもの。
+",A name of an occasion (1.8.3 Occasion) that does not belong to any of the other subordinate categories (1.8.3.1 - 1.8.3.5).,1,,,
+1,8,3,1,,,祭礼名,"端午の節供, 灯籠流し, 海神祭,  曲水宴,  チャンココ,   クリスマス,   正月",,"祭り,  祭,  祭礼,  行事,  祭事,  例祭",1,Religious_Festival,定期的に行われる宗教的もしくは民族的行事の名前。,"A name of a religious or traditional ceremony, festival or event that is held on a regular basis.",1,,,
+1,8,3,2,,,選挙名,"参院選, 総選挙,  米大統領選挙,   山梨県知事選挙,
+1953年ドイツ連邦議会選挙, 2010年アメリカ合衆国中間選挙, 2010年沖縄県知事選挙,
+巻町における原子力発電所の建設に関する住民投票","大統領選挙（国が特定されない→ ＣＯＮＣＥＰＴ), 市議会選挙(→ ＣＯＮＣＥＰＴ)","選挙,  投票",,Election,選挙、投票の名前。,A name of an election or vote.,1,,,
+1,8,3,3,,,競技会名,"東京オリンピック, オリンピック,  第50回びわ湖毎日マラソン,   びわ湖毎日マラソン,  広島アジア大会,   イエーテボリ世界陸上,   ユニバーシアード福岡大会,   バルセロナ五輪
+W杯香港大会
+
+第七十三回全国高校サッカー選手権,   第2回全国クラブラグビー大会,   2004年オリンピック,   大相撲平成30年1月場所
+
+第69回高松宮記念杯競輪,   Nコン2018,  朝日オープン将棋選手権,  NHK杯テレビ囲碁トーナメント,  アイデア対決・全国高等専門学校ロボットコンテスト,  ホリプロタレントスカウトキャラバン",決勝リーグ(→ ＣＯＮＣＥＰＴ),"大会,  競走,  競技会,  レース,  シーズン,  選手権",,Competition,"スポーツなどの競技大会の名前。
+コンクールなどのスポーツ以外の競技会を含む。","A name of a competition or game of a sport, or an event competing the superiority of any skill.",1,,,
+1,8,3,4,,,展示会名,"筑波科学万博,   第９回フードフェスティバル,  江戸の浮世絵展,   第26回ヴェネツィア国際映画祭,   日本陶芸展,  東京キャラクターショー,  世界デザイン博覧会",,"映画祭,  イベント,  博覧会,  特別博,  展示会,  展覧会,  即売会",,Exhibition,"展示イベントの名前。
+例えば、絵画、美術品などの展覧会、映画祭、企業の展示会など。","A name of an exhibition which includes exhibition of paintings and art craft, movie festival, industrial exhibition.",1,,,
+1,8,3,5,,,会議名,"日米構造協議,   第1回日米構造協議,  アルカディア会談,  世界女性会議,   第9回世界女性会議, G7
+
+ＡＰＥＣ大阪会議,   ナポリサミット,   池田−ロバートソン会談,   日米首脳会談,   アジア・アフリカ作家会議,   米第一〇四議会
+
+シンガポール会談,   日米包括経済協議,   緊急三役懇談会,   日本建築学会公開シンポジウム,","首脳会談(→ ＣＯＮＣＥＰＴ),   外相会談(→ ＣＯＮＣＥＰＴ),   臨時中執委(→ ＣＯＮＣＥＰＴ),   定期大会(→ ＣＯＮＣＥＰＴ)","会議,  ドラフト,  党大会, 公会議,  国会,  首脳会議,  会談,  総会",,Conference,会議の名前。,A name of a conference.,1,,,
+1,8,4,,,事故事件名,,,,,,Incident,事故、事件、戦争など、突発的に起こった出来事の名前。,"A name of an accident, incident or war that happenes in unexpected way.",,,,
+1,8,4,0,,事故事件名,事故事件名＿その他,"蘆溝橋事件,  ウォーターゲート事件,  生麦事件,  チャタレイ事件,  東海村臨界事故
+正中の変, 浦戸一揆, 
+
+チェルノブイリ原子力発電所事故,   東海村臨界事故,   もんじゅ事故
+
+アメリカ同時多発テロ事件,   地下鉄サリン事件,   リクルート事件,   陸英修夫人暗殺事件,   二・二六事件, 
+
+タテホ化学工業事件,   「日本商事（本社・大阪）株のインサイダー取引事件」,   英ベアリングズ社事件, 大阪空港訴訟, 早大闘争, 喜連川騒動",,"殺人,  火災,  強盗殺人,  問題,  汚職,  出来事,  騒動",,Incident_Other,"事故事件名のうち、その下位クラスに属さないもの。
+裁判にかかるもの。","A name of an incident (1.8.4 Incident) that does not belong to any of the other subordinate categories (1.8.4.1 - 1.8.4.3).
+This includes an incident related to a judicial court. ",1,,,
+1,8,4,1,,,交通事故名,"ミネアポリス高速道路崩落事故,  ケニア航空507便墜落事故,  紫雲丸事故,
+  JR羽越本線脱線事故,
+大韓航空機爆破事件（→交通事故名,事故事件名＿その他)",,"列車脱線,  海難,  列車衝突,  墜落,  衝突",,Traffic_Accident,陸上、海上、航空に関する事故の名前。,"A name of traffic accident on land, sea and air. ",1,,,
+1,8,4,2,,,社会事件名,"三里塚闘争,オーストリア革命,2007年ミャンマー反政府デモ,原爆の絵運動,チリ・クーデター,承応の変,アメリカ同時多発テロ事件,加賀一向一揆,よど号ハイジャック事件",,"暴動,  テロ,  運動,  一揆,  クーデター,  政変,  革命,  反乱,  社会運動",,Political_Incident,被害者、標的が、政治関係や不特定多数の、社会的な事件。,A name of a political incident the victims or targets of which are those relevant to politics or an unspecified large number of people.  ,,,,
+1,8,4,3,,,戦争名,"関ヶ原の戦い,  プロイセン・オーストリア戦争,  中国征伐,  宗教戦争
+
+第一次チェチェン紛争, 前九年の役, 二俣城の戦い, 志賀の陣
+
+盧溝橋事件,真珠湾攻撃, 応仁の乱, イースター蜂起, 満州事変
+
+ミッドウェー海戦,インパール作戦（→戦争名,政策計画名)","ウンデッド・ニー事件(→事故事件名＿その他),   アンボイナ事件（→事故事件名＿その他）
+
+冷戦(→ イベント名＿その他),   鉄のカーテン（冷戦時代の緊張状態 → イベント名＿その他）,      寛政一揆(→ 事故事件名＿その他),   会津御蔵入騒動(→ 事故事件名＿その他),   
+
+ シチリアの晩鐘(→ 事故事件名＿その他),   南昌暴動(→ 事故事件名＿その他),   蛤御門の変(→ 事故事件名＿その他)","戦闘,  戦い,  戦争,  海戦,  合戦,  会戦,  反乱,  空襲,  内戦",,War,"戦争の名前。 内戦を含む。
+戦争の一部になるもの、複数の勢力による紛争を含む。","A name of a war or battle, including a civil war.
+This also includes a part of war, and a conflict among multiple forces. ",1,,,
+1,9,,,自然物名,,,,,,,Natural_Object,自然界の有形物の名前。,A name of a natural object or material. ,,,,
+1,9,0,,自然物名,自然物名＿その他,,"中性子,   光子,   陽電子,  K中間子","  
+
+溶岩(→ ＣＯＮＣＥＰＴ),   母岩(→ ＣＯＮＣＥＰＴ),   火山灰(→ ＣＯＮＣＥＰＴ),   海水(→ ＣＯＮＣＥＰＴ),   マグマ(→ ＣＯＮＣＥＰＴ),   土(→ ＣＯＮＣＥＰＴ),   泥水(→ ＣＯＮＣＥＰＴ)
+
+エアーズロック（→地形名＿その他）
+
+トルコ石（→  鉱物名）
+
+ダイヤモンド（→鉱物名）
+
+御影石（鉱物名）","同位体,  化合,  粒子,  官能基,  岩石, 素粒子",1,Natural_Object_Other,自然物名のうち、その下位クラスに属さないもの。,A name of a natural object (1.9 Natural_Object) that does not belong to any of the other subordinate categories (1.9.1 - 1.9.5).,,,,
+1,9,1,,,元素名,,"酸素,   水素,   ヘリウム,  ルビジウム",,"元素,  系統,  同位体",,Element,原子によって構成される物質の名前。,A name of a chemical element.,,,,
+1,9,2,,,化合物名,,"塩酸,  フッ酸,  臭化アセチル,  多価アルコール,  メタロセン, ペニシリン（化合物名, 医薬品名）, イブプロフェン（化合物名,  医薬品名）",ダイヤモンド（→鉱物名）,"有機化合,  酵素,  化合,  1種,  塩,  医薬品,  誘導体",,Compound,"化合によってできた物質の名前。
+鉱物は含まない。
+医療に用いられる物質を含む。","A name of a chemical compound except a mineral.
+This includes those for the medical use.",1,,,
+1,9,3,,,鉱物名,,"苦土橄欖石,  硬マンガン鉱,  フェルグソン石,  自然銅,  芋子石",,"鉱物,  隕石,  宝石,  岩石",,Mineral,鉱物の名前。,A name of a mineral.,,,,
+1,9,4,,,生物名,,,,,,Living_Thing,"生物の名前。
+生物学による分類である「生物：ドメイン：界：門：鋼：目：科：属：種」のうち、「科」以下に属するもの。","A name of a living thing. 
+The entity in this cateogy belongs to either Family, Genus or Species of the biological classification: ""Domain: Kingdom: Phylum: Class: Order: Family: Genus: Species""",,,,
+1,9,4,0,,生物名,生物名＿その他,"アカヒトデ,   トゲサンゴ,  ミズクラゲ,  イトミミズ,  牛回虫","  
+
+化石(→ ＣＯＮＣＥＰＴ),   カビ(→ ＣＯＮＣＥＰＴ),   雑菌(→ ＣＯＮＣＥＰＴ),   原子核(→ ＣＯＮＣＥＰＴ),  植物性プランクトン(→ ＣＯＮＣＥＰＴ)
+
+ＨＩＶ感染（→病気名）
+
+血液(→ 動物部位名),   リンパ球(→ 動物部位名),   白血球(→ 動物部位名)","1種,  属,  クラゲ,  動物,  生物,  科,  単弓類",1,Living_Thing_Other,"生物名のうち、その下位クラスに属さないもの。
+棘皮動物、刺胞動物、生物、ウイルス、細菌などを含む。
+明確に植物の下位とは判断できない藻類を含む。
+複数の作品に登場するような空想上の動物などを含む。
+","A name of a living thing (1.9.4 Living_Thing) that does not belong to any of the other subordinate categories (1.9.4.1 - 1.9.4.13).
+This includes a name of bacteria, virus, cnidarian, echinoderm, etc. 
+This also includes a name of imaginary animal that appears in several works.",,,,
+1,9,4,1,,,空想生物名,"ドラゴン,  ゴブリン,  狼男,  ろくろ首  ユニコーン,  つちのこ,  鬼,  海坊主,  ネッシー","ピカチュウ(→ キャラクター名),  モスラ(→ キャラクター名),  ねずみ男(→ キャラクター名)","妖怪,  怪物,  生物,  妖精,  精霊,  魔物,  ＵＭＡ,  未確認動物,  憑きもの",,Fictional_Species,"現実に存在が認められていない、空想上の生物の名前。
+特定の作品のみに登場する架空の生物を除く。","A name of a fictitious creature whose existence is not recognized in reality. 
+This does not include a fictitious creature that appers only in a specific work. ",,,,
+1,9,4,2,,,細菌＿ウイルス名,"ＨＩＶ,   エイズ・ウィルス,   
+
+インフルエンザ菌,   アンモニア化成菌,   ,   コクサッキーウイルス",発酵菌(→ ＣＯＮＣＥＰＴ),"一属,  ウイルス,  属,  真正細菌,  1種,  細菌",,Bacteria_Virus,細菌、ウイルスの名前。,A name of a bacterum and a virus. ,,,,
+1,9,4,3,,,真菌類名,"ドクベニタケ,  ワタカビ,  バンダイキノリ,  キヌガサタケ,  ケカビ",,"キノコ,  菌類,  カビ,  属､科,  一群",1,Fungus,かび類・きのこ類および酵母菌類の名前。,"A name of a fungus such as a mold, mushroom, or yeast.",,,,
+1,9,4,4,,,軟体動物名,"サザエ,  ヤナギダコ,ダイオウイカ,マナメクジ,アオミノウミウシ",,"貝,  1種,  イカ,  タコ,  属,  軟体動物",1,Mollusk,"軟体動物の名前。
+例えば、無脊椎動物、 貝など。",A name of a mollusk such as an invertebrate animal or a shellfish.,,,,
+1,9,4,5,,,節足動物名,"テナガエビ,コガネグモ,マダニ,モズクガニ,タンカイザリガニ",,"クモ,  エビ,  カニ,  1種,  甲殻類,  属,  節足動物",,Arthropod,"昆虫類を除く節足動物の名前。
+甲殻類など。","A name of an arthropod except insects, such as a crustacean.",,,,
+1,9,4,6,,,昆虫類名,"ウラミスジシジミ,  シンクイガ,  トコジラミ,  マイマイカブリ,  ヤノネカイガラムシ,   ヤゴ,   蛆",,"昆虫,  1種,  科,  甲虫,  属",1,Insect,昆虫の名前。,A name of an insect.,,,,
+1,9,4,7,,,魚類名,"ニゴイ,  オヒョウ,  ホシザメ,  ヒメマス,  カワビシャ","  
+
+熱帯魚(→ ＣＯＮＣＥＰＴ),   小魚(→ ＣＯＮＣＥＰＴ),   温帯性魚類(→ ＣＯＮＣＥＰＴ)","魚,  魚類,  海水魚,  淡水魚",1,Fish,魚類の名前。,A name of a fish.,,,,
+1,9,4,8,,,両生類名,"サンショウウオ,  ツノガエル,  イボイモリ,  トウキョウダルマガエル,  アンヒューマ,   おたまじゃくし",,"カエル,  有尾類,  両生類",1,Amphibia,両生類の動物の名前。,A name of an amphibia.,,,,
+1,9,4,9,,,恐竜名,"ティラノサウルス,  エオトリケラトプス,  ケツァルコアトルス,  ニジェールサウルス",,"恐竜,  翼竜,  絶滅属,  獣脚類,  竜脚類,  角竜",,Dinosaur,恐竜の名前。,A name of a dinosaur.,,,,
+1,9,4,10,,,爬虫類名,"ワニガメ,  アホロテトカゲ,  ヨロイハブ,  エリマキトカゲ,  クロコダイル",,"カメ,  ヘビ,  属,  トカゲ,  科,  ワニ,  爬虫類",1,Reptile,恐竜を除く爬虫類の名前。,A name of a reptile except dinosaurs.,,,,
+1,9,4,11,,,鳥類名,"クジャク,  ナベヅル,  クロコシジロウミツバメ,  カンムリツクシガモ,  ウミアイサ","  
+
+野鳥(→ ＣＯＮＣＥＰＴ),   小鳥(→ ＣＯＮＣＥＰＴ)","鳥類, 鳥,  科,  1種,  属,  亜科,  種,  品種",1,Bird,鳥類の名前。,A name of a bird.,,,,
+1,9,4,12,,,哺乳類名,"アメリカバイソン,  モウコウマ,  ハタリス,  オオマメジカ,  紀州犬",松阪牛（→ 食べ物名＿その他）,"犬種,  肉食類,  属,  偶蹄類,  品種,  哺乳類,  1種,  科,  動物,  霊長類,  歯類",1,Mammal,"哺乳類の動物の名前。 
+食べ物になる品種などは、食べ物名＿その他も付与。",A name of a mammal.,,,,
+1,9,4,13,,,植物名,"バラ,  松,  チューリップ,  クローバー,  リンゴ","飼い葉(→ ＣＯＮＣＥＰＴ)
+
+富田の一本松(→ 植物呼称名)","多年草,  植物,  属, 科,  1種,  品種,  低木,  高木,  樹木",1,Flora,植物の名前。,A name of a plant.,,,,
+1,9,5,,,生物部位名,,,,,,Living_Thing_Part,動物と植物の部位の名前。,"A name of a part, section or organ that an animal or a plant has.",,,,
+1,9,5,0,,生物部位名,生物部位名＿その他,"細胞,   染色体,   伝令RNA,   DNA",,"構造, 受容体",1,Living_Thing_Part_Other,"生物部位名のうち、その下位クラスに属さないもの。
+動物、植物共有の部位の名前。","A name of a part, section or organ of a living thing (1.9.5 Living_Thing_Part) that does not belong to any of the other subordinate categories (1.9.5.1 - 1.9.5.2). 
+Those common to both an animal and a plant are examples of this category.",,,,
+1,9,5,1,,,動物部位名,"頭,   心臓,   肋骨,   筋肉,   神経,   手足,   両足,   尾頭,   上半身,   つむじ,   胆石,   血液,   白血球,   リンパ球,   涙,   ガン細胞, ロレンチーニ器官,  視神経,  胎盤,  腎管
+
+象牙","  
+
+利き腕(→ ＣＯＮＣＥＰＴ),   笑顔(→ ＣＯＮＣＥＰＴ),   泣き顔(→ ＣＯＮＣＥＰＴ),   お心(→ ＣＯＮＣＥＰＴ),   出足(→ ＣＯＮＣＥＰＴ),   体(→ ＣＯＮＣＥＰＴ),   身体(→ ＣＯＮＣＥＰＴ),   巨体(→ ＣＯＮＣＥＰＴ)","筋肉, 経穴,  動脈,  器官,  細胞",1,Animal_Part,動物のみが持っている部位の名前。 ,"A name of a part, section or organ that only an animal has.",,,,
+1,9,5,2,,,植物部位名,"茎,   葉,   根っこ,   花,   花茎,   雌しべ,   前出葉,   機械組織,   道管",草木(→ ＣＯＮＣＥＰＴ),"構造,  果実,  器官",1,Flora_Part,植物のみが持っている部位の名前。,"A name of a part, section or organ that only a plant has.",,,,
+1,10,,,病気名,,,,,,,Disease,動物と植物がかかる病気の名前。,A name of a disease.,,,,
+1,10,0,,病気名,病気名＿その他,,"黒星病,  むれ苗,  樹病",,"病害,  病気,  感染症,  病名",,Disease_Other,"病気名のうち、その下位クラスに属さないもの。
+植物がかかる病気など。","A name of a disease (1.10 Disease) that does not belong to the other subordinate category (1.11.1 Animal_Disease).
+Diseases of plants are examples of this category.",,,,
+1,10,1,,,動物病気名,,"ＷＰＷ症候群,  結節性多発動脈炎,  歯肉炎,  乳癌,  膀胱結核, 
+心筋梗塞,   脳卒中,   失語症,   風邪,   顔面神経痛,   すいがん,   心不全,   肺性心,   白血病,   急性循環不全,   肺炎,   腰痛   アヘン中毒,   脳こうそく,   骨髄異形成症候群,   腹部動脈りゅう破裂,   貧血,   二日酔い,   水俣病,   スペインかぜ,   呼吸不全   失神,   やけど,   全身衰弱,   骨折,   さかさまつげ,   わきが,   あせも,   発熱,   ぼけ,   熱病,   切り傷,   神経症,   震災後遺症","病気(→ ＣＯＮＣＥＰＴ),   傷(→ ＣＯＮＣＥＰＴ),   負傷(→ ＣＯＮＣＥＰＴ),   致命傷(→ ＣＯＮＣＥＰＴ),   がんこ(→ ＣＯＮＣＥＰＴ),   神経質(→ ＣＯＮＣＥＰＴ),   夜泣き(→ ＣＯＮＣＥＰＴ),   おもらし(→ ＣＯＮＣＥＰＴ),   甘え(→ ＣＯＮＣＥＰＴ),   退行(→ ＣＯＮＣＥＰＴ),   集中困難(→ ＣＯＮＣＥＰＴ),   細胞死(→ ＣＯＮＣＥＰＴ), アポトーシス(→ ＣＯＮＣＥＰＴ)","状態,  感染症,  疾患,  症状,  病気,  病態,  炎症,  症候群,  疾病",,Animal_Disease,病気や怪我等の動物がかかる病気の名前。,A name of an animal disease or injury.,,,,
+1,11,,,色名,,,"赤,  青,  白,  黒,  黄
+赤色,  青色,   ピンク
+
+江戸紫,  べに色,  韓紅花,  猩々緋,  黄丹,   無色","ツートンカラー(→ ＣＯＮＣＥＰＴ),   極彩色(→ ＣＯＮＣＥＰＴ)
+赤字(→ ＣＯＮＣＥＰＴ)
+",色,1,Color,色の名前。,A name of a color.,1,,,

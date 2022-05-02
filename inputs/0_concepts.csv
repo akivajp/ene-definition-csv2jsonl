@@ -1,0 +1,2 @@
+﻿ID,,,,NE,,,正例,負例,普通名詞フラグ,ENE英語表記,定義文,Definition,属性定義の有無,メモ（中元）,注意事項用メモ
+0,,,,ＣＯＮＣＥＰＴ,,,,,1,CONCEPT,ENEカテゴリに該当しない全てのエンティティ。典型的には一般名詞。,"Anything other than entities which have one of the ENE categories.Typically, Common nouns.",,,
