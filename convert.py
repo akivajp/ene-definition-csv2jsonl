@@ -51,6 +51,8 @@ for path in paths:
         if not strId:
             raise Exception('no id')        
         if strId in set_id:
+            logger.debug('path: %s', path)
+            logger.debug('row: %s', row)
             raise Exception('duplicate id: %s' % strId)
         set_id.add(strId)
         output['ENE_id'] = strId
