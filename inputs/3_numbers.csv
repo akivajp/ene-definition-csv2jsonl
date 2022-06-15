@@ -98,7 +98,7 @@ Vol.１（→序数）",,Numex_Other,数値表現の内、その下位のクラ�
 １世帯,   ６班,   ２大ゲリラ組織,   ２大政党
 ",,,N_Organization,組織の数。 ,An expression of the number of organizations.,An expression of the number of organizations.,,
 3,13,3,,,場所数,,,,,N_Location,場所の数。,An expression of the number of places.,An expression of the number of places.,,
-3,13,3,0,,場所数,場所数＿その他,"10地域,   47都道府県,   50州,   二十三選挙区,   二府四県,   ５地方,   十二カ所,   三都市,   １７カ国、地域",,,N_Location_Other,場所数の内、その下位のクラスに属さないもの。 ,An expression of the number of places (3.13.3 N_Location) that do not belong to any of the other subordinate categories (3.13.3.1 N_Location_Other).,An expression of the number of places excluding countries.,,
+3,13,3,0,,場所数,場所数＿その他,"10地域,   47都道府県,   50州,   二十三選挙区,   二府四県,   ５地方,   十二カ所,   三都市,   １７カ国、地域",,,N_Location_Other,場所数の内、その下位のクラスに属さないもの。 ,An expression of the number of places (3.13.3 N_Location) that do not belong to any of the other subordinate categories (3.13.3.1- N_Country).,An expression of the number of places excluding countries.,,
 3,13,3,1,,,国数,"２国, 四ヶ国, ３か国",,,N_Country,国の数。 ,An expression of the number of countries.,An expression of the number of countries. ,,
 3,13,4,,,施設数,,"１０校,   ３空港,   三百戸,   二棟,   ４施設
 
