@@ -1,0 +1,55 @@
+﻿ID,,,,ENE,,,正例,負例,普通名詞フラグ,ENE英語表記,定義文,Definition,,注意事項
+2,,,,時間表現,,,,,,Timex,時間に関する表現。,An expression indicating time.,An expression indicating time.,
+2,0,,,時間表現＿その他,,,,,,Timex_Other,時間表現の内、その下位のクラスに属さないもの 。,An expression indicating time (2 Timex) that do not belong to any of the other subordinate categories (2.1 - 2.2).,"An expression of time or a period, which is not  in the categories of the Time_Top’s child nodes, 2-1 – 2-2-5.",
+2,1,,,時間,,,,,,Timeex,時間。ある特定の一点（時期）を指す。,An expression of a point of time.,An expression of time.,
+2,1,0,,時間,時間＿その他,,"一学期, 後期, ３時間目",,,Timeex_Other,時間のうち、下位のクラスに入らないもの。,An expression of a point of time (2.1 Timeex) that do not belong to any of the other subordinate categories (2.1.1 - 2.1.4).,"An expression of time which is not  in the categories of the Timex’s child nodes, 2-1-1 – 2-1-4, e.g., a school semester.",
+2,1,1,,,時刻表現,,"３時５分２８秒,   午後２時,   １８：４２,   丑三つ時,   明け六つ
+
+夜,   早朝,   午前零時,   深夜,   17時,   正午,   夜九時半,   午後","今朝(→ＣＯＮＣＥＰＴ),   前夜(→ＣＯＮＣＥＰＴ),   明朝(→ＣＯＮＣＥＰＴ),   昨晩(→ＣＯＮＣＥＰＴ),   同夕(→ＣＯＮＣＥＰＴ)
+
+ティータイム(→ＣＯＮＣＥＰＴ),   日暮れ(→ＣＯＮＣＥＰＴ)
+
+毎晩(→ＣＯＮＣＥＰＴ)
+４分前（「４分」→時刻期間）",,Time,時刻を表す表現。,An expression of a time of a day.,An expression of time of a day.,
+2,1,2,,,日付表現,,"２００３年４月１日,   ６/３０,   平成１２年,   こどもの日,   丑の日,   卯月,   エープリル・フール,   ４日,   四月,   三月末,   秋
+
+一九九六年春,   3月5日,   八九年二月,   新年,   年頭,   九七年度,   10月上旬,   大晦日,   （二, 三日）
+
+19世紀初頭,   １９１９（大正８）年,   戦後50年目,   被爆50周年,   旧正月,   春節,   ９５年上半期,   ４−９月,   上半期
+
+Jリーグ元年","きのう(→ＣＯＮＣＥＰＴ),   今秋(→ＣＯＮＣＥＰＴ),   一昨年(→ＣＯＮＣＥＰＴ),   来年度(→ＣＯＮＣＥＰＴ),   今月末(→ＣＯＮＣＥＰＴ),   月末(→ＣＯＮＣＥＰＴ),   同日(→ＣＯＮＣＥＰＴ),   同年(→ＣＯＮＣＥＰＴ),   先月中旬(→ＣＯＮＣＥＰＴ),   今年(→ＣＯＮＣＥＰＴ),   今月後半(→ＣＯＮＣＥＰＴ) ,   来週(→ＣＯＮＣＥＰＴ),   1980年代(→時代表現)
+
+刹那(→ＣＯＮＣＥＰＴ),   臨終(→ＣＯＮＣＥＰＴ),   晩年(→ＣＯＮＣＥＰＴ)
+
+宇宙誕生直後(→ＣＯＮＣＥＰＴ)
+
+あす二日（「二日」→日付表現）,   昨年春（「春」→日付表現）,   昨年七月七日（「七月七日」→日付表現）
+
+一年前（「一年」→期間表現）",,Date,日付に関する表現。ただし、「今日」「昨年」などというような照応表現はのぞく。,An expression of a date.,An expression of a date.,
+2,1,3,,,曜日表現,,"月,   火曜日,   土日,   週末,   週明け",毎週土曜日（「土曜日」→曜日表現）,,Day_Of_Week,曜日の表現,An expression of a day of a week.,An expression of a day of a week.,
+2,1,4,,,時代表現,,"鎌倉時代,   ソ連時代,   若貴時代,   宇野内閣時代,   バブル時代,   マルチメディア時代, 伊丹時代,   レトルト時代,   1980年代   
+
+平成,   奈良,   大正
+
+戦後,   戦中,   戦前,   戦時中
+
+中世,   幕末
+
+昭和初期,   昭和期,   占領期,   バブル期,   氷河期
+
+２１世紀","  
+
+高金利時代(→ＣＯＮＣＥＰＴ)
+
+アフシャール朝(→政治的組織名＿その他および国名)",,Era,時代の名前。「～時代」「～期」「～世紀」等。,An expression of an era.,An expression of an era.,
+2,2,,,期間,,,,,,Periodx,期間。,An expression of a period of time.,An expression of a period,
+2,2,0,,期間,期間＿その他,,"３期,   ３代,   一世代","忌中
+
+インディアン・サマー(→日付表現)",,Periodx_Other,期間の内、その下位のクラスに属さないもの。,An expression of a period of time (2.2 Periodx) that do not belong to any of the other subordinate categories (2.2.1 - 2.2.5).,"An expression of time or a period, which is not  in the categories of the Periodx’s child nodes, 2-2-1 – 2-2-5.",
+2,2,1,,,時刻期間,,"３秒間,   ５分間,   ２時間,   ２時間半,   十数時間,   約十五分間,   千分の一秒","半日（→日数期間）
+
+一昼夜（→日数期間）",,Period_Time,時刻期間の表現。,"An expression of a period of seconds, minutes or hours.","an expression of a period of seconds, minutes, or hours.",
+2,2,2,,,日数期間,,"１０日間, ３０日間, 半日間, 二晩, ４泊５日,   一昼夜,   一夜,   ３夜",５ヶ月１０日(「５ヵ月」→月数期間、「１０日」→日数期間),,Period_Day,日数期間の表現。,An expression of a period of days.,an expression of a period of days,
+2,2,3,,,週数期間,,"１週間,   七週間",週（数字がない場合→ＣＯＮＣＥＰＴ）,,Period_Week,週数期間の表現。,An expression of a period of weeks.,an expression of a period of weeks,
+2,2,4,,,月数期間,,"３ヶ月間,   五箇月間,   ひと月,   ４ヵ月半,   ２年５ヶ月",半年（→年数期間）,,Period_Month,月数期間の表現。,An expression of a period of months.,an expression of a period of months,
+2,2,5,,,年数期間,,"１年間,   十年間,   ３０年,   半年,   四十五年間   五ヵ年,   四半世紀,   ２世紀間,   四半期",年間（数字がついていない場合→ＣＯＮＣＥＰＴ）,,Period_Year,年数期間の表現。,An expression of a period of years.,an expression of a period of years.,
